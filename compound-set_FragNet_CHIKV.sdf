@@ -1,0 +1,5746 @@
+ver_1.2
+     RDKit          2D
+
+  0  0  0  0  0  0  0  0  0  0999 V2000
+M  END
+>  <ref_url>  (1) 
+https://pubs.acs.org/doi/10.1021/acs.jcim.3c00276?fig=tgr1&ref=pdf
+
+>  <submitter_name>  (1) 
+Steph Wills
+
+>  <submitter_institution>  (1) 
+University of Oxford
+
+>  <submitter_email>  (1) 
+stephanie.wills@balliol.ox.ac.uk
+
+>  <generation_date>  (1) 
+2024-04-03
+
+>  <method>  (1) 
+FragNetPipes
+
+>  <original SMILES>  (1) 
+SMILES
+
+>  <original_name>  (1) 
+a name
+
+>  <ref_mols>  (1) 
+ref fragments
+
+>  <ref_pdb>  (1) 
+ref pdb
+
+$$$$
+PV-001996840520
+     RDKit          3D
+
+ 21 24  0  0  0  0  0  0  0  0999 V2000
+    5.0280    9.9720   17.8260 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5410    8.9770   17.3530 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7680    7.8390   16.8220 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3550    6.8950   16.1610 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7860    7.0490   15.9930 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4250    6.1610   15.1660 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6310    6.4260   14.8620 N   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9440    5.4390   14.0430 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3390    5.5300   13.4170 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.4510    5.8240   14.0460 N   0  0  0  0  0  0  0  0  0  0  0  0
+   12.4750    5.8130   13.1250 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.1060    5.5210   11.8310 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.4340    5.2590   11.7620 S   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9860    4.5010   13.8260 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9920    5.0270   14.5670 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6090    4.5390   14.7380 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2120    3.1930   14.1210 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3180    3.9400   12.7950 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6190    4.9980   13.6490 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5150    7.9590   16.5140 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8960    8.8650   17.2820 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0
+  2  3  1  0
+  3  4  2  0
+  4  5  1  0
+  5  6  1  0
+  6  7  2  0
+  7  8  1  0
+  8  9  1  0
+  9 10  2  0
+ 10 11  1  0
+ 11 12  2  0
+ 12 13  1  0
+  8 14  2  0
+ 14 15  1  0
+ 15 16  1  0
+ 16 17  1  0
+ 17 18  1  0
+ 18 19  1  0
+  5 20  2  0
+ 20 21  1  0
+ 21  2  1  0
+ 15  6  1  0
+ 19 16  1  0
+ 13  9  1  0
+A    1
+ O1 
+A    2
+ C1 
+A    3
+ C2 
+A    4
+ C3 
+A    5
+ C4 
+A    6
+ C5 
+A    7
+ N1 
+A    8
+ C6 
+A    9
+ C7 
+A   10
+ N2 
+A   11
+ C8 
+A   12
+ C9 
+A   13
+ S1 
+A   14
+ N3 
+A   15
+ N4 
+A   16
+ C10
+A   17
+ C11
+A   18
+ C12
+A   19
+ C13
+A   20
+ N5 
+A   21
+ N6 
+M  END
+>  <similarity>  (2) 
+NA
+
+>  <smiles>  (2) 
+O=c1ccc(-c2nc(-c3nccs3)nn2C2CCC2)n[nH]1
+
+>  <cmpd_id>  (2) 
+ENAMINE:PV-001996840520
+
+>  <used_subnode>  (2) 
+NA
+
+>  <used_synthon>  (2) 
+NA
+
+>  <ref_subnode>  (2) 
+O=c1cccn[nH]1
+
+>  <ref_synthon>  (2) 
+[Xe]c1nccs1
+
+>  <fragmentA>  (2) 
+cx1135b
+
+>  <fragmentB>  (2) 
+cx0281a
+
+>  <HA>  (2) 
+21
+
+>  <HBD>  (2) 
+1
+
+>  <HBA>  (2) 
+7
+
+>  <MW>  (2) 
+300.07933000400004
+
+>  <TPSA>  (2) 
+89.35
+
+>  <LogP>  (2) 
+1.8768999999999998
+
+>  <RBs>  (2) 
+3
+
+>  <G_bound>  (2) 
+-5.125318108445938
+
+>  <G_unbound>  (2) 
+1.2370614374891946
+
+>  <deltaG>  (2) 
+-6.362379545935132
+
+>  <comRMSD>  (2) 
+0.6628054737828353
+
+>  <substructure_overlap_check>  (2) 
+True
+
+>  <energy_ratio_check>  (2) 
+True
+
+>  <const_energy/unconst_energy>  (2) 
+5.044190305819347
+
+>  <sucos>  (2) 
+0.6922607307231541
+
+>  <interactions>  (2) 
+HBAcceptor_SER-110,Hydrophobic_VAL-33,Hydrophobic_ALA-22,HBAcceptor_ASP-31,HBDonor_ASP-31,Hydrophobic_CYS-34,Hydrophobic_ASN-24,HBAcceptor_ASN-24,Hydrophobic_TYR-114,Hydrophobic_PRO-107,Hydrophobic_LEU-109
+
+>  <total_num_ints>  (2) 
+11
+
+>  <total_num_ints_nonhyd>  (2) 
+4
+
+>  <num_uniq_frag_ints>  (2) 
+10
+
+>  <num_repl_uniq_ints>  (2) 
+9
+
+>  <num_uniq_ints_lost>  (2) 
+1
+
+>  <num_new_uniq_ints>  (2) 
+2
+
+>  <int_check>  (2) 
+True
+
+>  <rationale>  (2) 
+FragNet: perfect merge incl O=c1cccn[nH]1,[Xe]c1nccs1
+
+>  <original SMILES>  (2) 
+O=c1ccc(-c2nc(-c3nccs3)nn2C2CCC2)n[nH]1
+
+>  <original_name>  (2) 
+cx1135b-cx0281a_86_PXX
+
+>  <ref_mols>  (2) 
+cx1135b,cx0281a
+
+>  <ref_pdb>  (2) 
+cx1135b
+
+$$$$
+Z1316046619
+     RDKit          3D
+
+ 19 20  0  0  0  0  0  0  0  0999 V2000
+    5.8320    7.4460   19.4100 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8640    8.3980   18.8910 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6630    8.6020   17.4890 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3740    7.7670   16.7120 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7060    6.9300   16.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4950    6.0210   15.1470 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0320    4.9530   14.7450 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.7330    6.5410   14.9030 N   0  0  0  0  0  0  0  0  0  0  0  0
+    9.0180    7.9650   14.9860 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.8360    5.7020   15.2190 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.6330    5.6540   13.9840 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.8220    6.1870   13.8750 N   0  0  0  0  0  0  0  0  0  0  0  0
+   12.2910    5.9560   12.6090 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.4470    5.2560   11.7840 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.0000    4.8700   12.6040 S   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2730    6.8060   15.9520 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6380    7.7880   16.5540 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3760    8.8940   17.2050 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8900    9.9800   17.4980 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  4  5  2  0
+  5  6  1  0
+  6  7  2  0
+  6  8  1  0
+  8  9  1  0
+  8 10  1  0
+ 10 11  1  0
+ 11 12  2  0
+ 12 13  1  0
+ 13 14  2  0
+ 14 15  1  0
+  5 16  1  0
+ 16 17  2  0
+ 17 18  1  0
+ 18 19  2  0
+ 18  3  1  0
+ 15 11  1  0
+A    1
+ C1 
+A    2
+ C2 
+A    3
+ N1 
+A    4
+ N2 
+A    5
+ C3 
+A    6
+ C4 
+A    7
+ O1 
+A    8
+ N3 
+A    9
+ C5 
+A   10
+ C6 
+A   11
+ C7 
+A   12
+ N4 
+A   13
+ C8 
+A   14
+ C9 
+A   15
+ S1 
+A   16
+ C10
+A   17
+ C11
+A   18
+ C12
+A   19
+ O2 
+M  END
+>  <similarity>  (3) 
+NA
+
+>  <smiles>  (3) 
+CCn1nc(C(=O)N(C)Cc2nccs2)ccc1=O
+
+>  <cmpd_id>  (3) 
+ENAMINE:Z1316046619
+
+>  <used_subnode>  (3) 
+NA
+
+>  <used_synthon>  (3) 
+NA
+
+>  <ref_subnode>  (3) 
+O=c1cccn[nH]1
+
+>  <ref_synthon>  (3) 
+[Xe]c1nccs1
+
+>  <fragmentA>  (3) 
+cx1135b
+
+>  <fragmentB>  (3) 
+cx0281a
+
+>  <HA>  (3) 
+19
+
+>  <HBD>  (3) 
+0
+
+>  <HBA>  (3) 
+6
+
+>  <MW>  (3) 
+278.08374668799996
+
+>  <TPSA>  (3) 
+68.09
+
+>  <LogP>  (3) 
+0.9918999999999997
+
+>  <RBs>  (3) 
+4
+
+>  <G_bound>  (3) 
+-8.553989512208794
+
+>  <G_unbound>  (3) 
+-0.2028153105088547
+
+>  <deltaG>  (3) 
+-8.351174201699939
+
+>  <comRMSD>  (3) 
+0.591466886286375
+
+>  <substructure_overlap_check>  (3) 
+True
+
+>  <energy_ratio_check>  (3) 
+True
+
+>  <const_energy/unconst_energy>  (3) 
+2.9059827757742758
+
+>  <sucos>  (3) 
+0.6202045473543714
+
+>  <interactions>  (3) 
+Hydrophobic_VAL-113,Hydrophobic_VAL-33,Hydrophobic_ALA-22,HBAcceptor_ASP-31,Hydrophobic_CYS-34,Hydrophobic_ASN-24,HBAcceptor_ASN-24,Hydrophobic_TYR-114,PiStacking_TYR-114,Hydrophobic_PRO-107
+
+>  <total_num_ints>  (3) 
+10
+
+>  <total_num_ints_nonhyd>  (3) 
+3
+
+>  <num_uniq_frag_ints>  (3) 
+10
+
+>  <num_repl_uniq_ints>  (3) 
+9
+
+>  <num_uniq_ints_lost>  (3) 
+1
+
+>  <num_new_uniq_ints>  (3) 
+1
+
+>  <int_check>  (3) 
+True
+
+>  <rationale>  (3) 
+FragNet: perfect merge incl O=c1cccn[nH]1,[Xe]c1nccs1
+
+>  <original SMILES>  (3) 
+CCn1nc(C(=O)N(C)Cc2nccs2)ccc1=O
+
+>  <original_name>  (3) 
+cx1135b-cx0281a_109_PXX
+
+>  <ref_mols>  (3) 
+cx1135b,cx0281a
+
+>  <ref_pdb>  (3) 
+cx1135b
+
+$$$$
+PV-002541797817
+     RDKit          3D
+
+ 16 17  0  0  0  0  0  0  0  0999 V2000
+    9.2480    3.4040   15.7270 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2760    4.5790   15.3770 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.4920    5.4430   16.0130 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1860    5.5460   15.4860 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6750    6.8410   15.9870 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2400    7.0080   15.9340 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7710    8.0870   16.5060 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6540    9.0510   17.1410 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2120    9.9750   17.8060 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9850    8.8540   16.9150 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5210    7.7030   16.4420 N   0  0  0  0  0  0  0  0  0  0  0  0
+   10.0620    5.1570   14.3120 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.9720    6.1780   14.2890 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.5070    6.4230   13.0680 N   0  0  0  0  0  0  0  0  0  0  0  0
+   11.0070    5.5990   12.1860 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.8720    4.5020   12.7580 S   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0
+  2  3  1  0
+  3  4  1  0
+  4  5  1  0
+  5  6  1  0
+  6  7  2  0
+  7  8  1  0
+  8  9  2  0
+  8 10  1  0
+ 10 11  1  0
+  2 12  1  0
+ 12 13  2  0
+ 13 14  1  0
+ 14 15  2  0
+ 15 16  1  0
+ 11  5  2  0
+ 16 12  1  0
+A    1
+ O1 
+A    2
+ C1 
+A    3
+ N1 
+A    4
+ C2 
+A    5
+ C3 
+A    6
+ C4 
+A    7
+ C5 
+A    8
+ C6 
+A    9
+ O2 
+A   10
+ N2 
+A   11
+ N3 
+A   12
+ C7 
+A   13
+ C8 
+A   14
+ N4 
+A   15
+ C9 
+A   16
+ S1 
+M  END
+>  <similarity>  (4) 
+1.0
+
+>  <smiles>  (4) 
+O=C(NCc1ccc(=O)[nH]n1)c1cncs1
+
+>  <cmpd_id>  (4) 
+ENAMINE:PV-002541797817
+
+>  <used_subnode>  (4) 
+O=c1cccn[nH]1
+
+>  <used_synthon>  (4) 
+[Xe]c1cncs1
+
+>  <ref_subnode>  (4) 
+O=c1cccn[nH]1
+
+>  <ref_synthon>  (4) 
+[Xe]c1nccs1
+
+>  <fragmentA>  (4) 
+cx1135b
+
+>  <fragmentB>  (4) 
+cx0281a
+
+>  <HA>  (4) 
+16
+
+>  <HBD>  (4) 
+2
+
+>  <HBA>  (4) 
+5
+
+>  <MW>  (4) 
+236.036796496
+
+>  <TPSA>  (4) 
+87.74
+
+>  <LogP>  (4) 
+0.1563999999999997
+
+>  <RBs>  (4) 
+3
+
+>  <G_bound>  (4) 
+-6.234376958006528
+
+>  <G_unbound>  (4) 
+0.38256034457730487
+
+>  <deltaG>  (4) 
+-6.616937302583833
+
+>  <comRMSD>  (4) 
+1.1722961565516206
+
+>  <substructure_overlap_check>  (4) 
+True
+
+>  <energy_ratio_check>  (4) 
+True
+
+>  <const_energy/unconst_energy>  (4) 
+2.815176016080854
+
+>  <sucos>  (4) 
+0.6814932351188298
+
+>  <interactions>  (4) 
+Hydrophobic_VAL-33,Hydrophobic_ASN-24,HBAcceptor_GLY-112,Hydrophobic_CYS-34,Hydrophobic_PRO-107,Hydrophobic_ALA-22,HBAcceptor_ASP-31,HBDonor_ASP-31,Hydrophobic_TYR-114,HBAcceptor_TYR-114
+
+>  <total_num_ints>  (4) 
+10
+
+>  <total_num_ints_nonhyd>  (4) 
+4
+
+>  <num_uniq_frag_ints>  (4) 
+10
+
+>  <num_repl_uniq_ints>  (4) 
+8
+
+>  <num_uniq_ints_lost>  (4) 
+2
+
+>  <num_new_uniq_ints>  (4) 
+2
+
+>  <int_check>  (4) 
+True
+
+>  <rationale>  (4) 
+FragNet: 1 round bioisosteric merging incl O=c1cccn[nH]1 and [Xe]c1cncs1 replacing [Xe]c1nccs1
+
+>  <original SMILES>  (4) 
+O=C(NCc1ccc(=O)[nH]n1)c1cncs1
+
+>  <original_name>  (4) 
+cx1135b-cx0281a_145_B1X
+
+>  <ref_mols>  (4) 
+cx1135b,cx0281a
+
+>  <ref_pdb>  (4) 
+cx1135b
+
+$$$$
+PV-001850144908
+     RDKit          3D
+
+ 16 17  0  0  0  0  0  0  0  0999 V2000
+    7.8070    4.2260   13.5370 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6850    4.9230   14.0650 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5900    5.4280   15.3150 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3600    5.2940   16.0130 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8320    6.6850   16.2110 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3860    6.8900   16.0450 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9020    8.0270   16.5140 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8120    8.9900   17.1300 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4330    9.8430   17.9220 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1010    8.8310   16.7290 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6690    7.6190   16.5330 N   0  0  0  0  0  0  0  0  0  0  0  0
+    9.9370    5.3040   13.4400 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.1910    5.0870   12.1180 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.7630    5.6160   11.7300 S   0  0  0  0  0  0  0  0  0  0  0  0
+   11.9850    6.1180   13.3440 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.9780    5.9150   14.1550 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0
+  2  3  1  0
+  3  4  1  0
+  4  5  1  0
+  5  6  1  0
+  6  7  2  0
+  7  8  1  0
+  8  9  2  0
+  8 10  1  0
+ 10 11  1  0
+  2 12  1  0
+ 12 13  2  0
+ 13 14  1  0
+ 14 15  1  0
+ 15 16  2  0
+ 11  5  2  0
+ 16 12  1  0
+A    1
+ O1 
+A    2
+ C1 
+A    3
+ N1 
+A    4
+ C2 
+A    5
+ C3 
+A    6
+ C4 
+A    7
+ C5 
+A    8
+ C6 
+A    9
+ O2 
+A   10
+ N2 
+A   11
+ N3 
+A   12
+ C7 
+A   13
+ C8 
+A   14
+ S1 
+A   15
+ C9 
+A   16
+ N4 
+M  END
+>  <similarity>  (5) 
+1.0
+
+>  <smiles>  (5) 
+O=C(NCc1ccc(=O)[nH]n1)c1cscn1
+
+>  <cmpd_id>  (5) 
+ENAMINE:PV-001850144908
+
+>  <used_subnode>  (5) 
+O=c1cccn[nH]1
+
+>  <used_synthon>  (5) 
+[Xe]c1cscn1
+
+>  <ref_subnode>  (5) 
+O=c1cccn[nH]1
+
+>  <ref_synthon>  (5) 
+[Xe]c1nccs1
+
+>  <fragmentA>  (5) 
+cx1135b
+
+>  <fragmentB>  (5) 
+cx0281a
+
+>  <HA>  (5) 
+16
+
+>  <HBD>  (5) 
+2
+
+>  <HBA>  (5) 
+5
+
+>  <MW>  (5) 
+236.036796496
+
+>  <TPSA>  (5) 
+87.74
+
+>  <LogP>  (5) 
+0.15639999999999993
+
+>  <RBs>  (5) 
+3
+
+>  <G_bound>  (5) 
+-6.142650097829627
+
+>  <G_unbound>  (5) 
+0.7701523326757649
+
+>  <deltaG>  (5) 
+-6.9128024305053914
+
+>  <comRMSD>  (5) 
+0.5904632616483702
+
+>  <substructure_overlap_check>  (5) 
+True
+
+>  <energy_ratio_check>  (5) 
+True
+
+>  <const_energy/unconst_energy>  (5) 
+2.424389671341956
+
+>  <sucos>  (5) 
+0.6869433731576101
+
+>  <interactions>  (5) 
+HBAcceptor_SER-110,Hydrophobic_VAL-33,Hydrophobic_ASN-24,Hydrophobic_CYS-34,Hydrophobic_PRO-107,Hydrophobic_ALA-22,HBAcceptor_ASP-31,HBDonor_ASP-31,Hydrophobic_TYR-114
+
+>  <total_num_ints>  (5) 
+9
+
+>  <total_num_ints_nonhyd>  (5) 
+3
+
+>  <num_uniq_frag_ints>  (5) 
+10
+
+>  <num_repl_uniq_ints>  (5) 
+8
+
+>  <num_uniq_ints_lost>  (5) 
+2
+
+>  <num_new_uniq_ints>  (5) 
+1
+
+>  <int_check>  (5) 
+True
+
+>  <rationale>  (5) 
+FragNet: 1 round bioisosteric merging incl O=c1cccn[nH]1 and [Xe]c1cscn1 replacing [Xe]c1nccs1
+
+>  <original SMILES>  (5) 
+O=C(NCc1ccc(=O)[nH]n1)c1cscn1
+
+>  <original_name>  (5) 
+cx1135b-cx0281a_146_B1X
+
+>  <ref_mols>  (5) 
+cx1135b,cx0281a
+
+>  <ref_pdb>  (5) 
+cx1135b
+
+$$$$
+PV-001996848401
+     RDKit          3D
+
+ 22 25  0  0  0  0  0  0  0  0999 V2000
+    6.6240    9.7720   17.6570 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5540    8.8590   17.8100 S   0  0  0  0  0  6  0  0  0  0  0  0
+    4.2390    9.2740   18.2160 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1080    7.5960   18.9140 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9910    6.7330   18.0550 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3380    6.5940   16.6890 C   0  0  2  0  0  0  0  0  0  0  0  0
+    7.3410    6.2140   15.7180 N   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6480    6.6370   15.7340 N   0  0  0  0  0  0  0  0  0  0  0  0
+    9.0950    6.0100   14.6200 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.4530    5.9940   13.8560 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.6310    6.3930   14.2590 N   0  0  0  0  0  0  0  0  0  0  0  0
+   12.5320    6.1770   13.2260 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.0200    5.6240   12.0680 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3530    5.3660   12.2610 S   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1960    5.2530   14.0070 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1320    5.4150   14.6750 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8610    4.7610   14.2150 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6260    5.2570   14.5620 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7820    4.4260   13.9410 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4860    3.4820   13.2530 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8300    3.6980   13.4310 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5250    7.8510   16.3530 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0
+  2  3  2  0
+  2  4  1  0
+  4  5  1  0
+  5  6  1  0
+  6  7  1  6
+  7  8  1  0
+  8  9  2  0
+  9 10  1  0
+ 10 11  2  0
+ 11 12  1  0
+ 12 13  2  0
+ 13 14  1  0
+  9 15  1  0
+ 15 16  2  0
+ 16 17  1  0
+ 17 18  1  0
+ 18 19  2  0
+ 19 20  1  0
+ 20 21  1  0
+  6 22  1  0
+ 22  2  1  0
+ 16  7  1  0
+ 21 17  2  0
+ 14 10  1  0
+A    1
+ O1 
+A    2
+ S1 
+A    3
+ O2 
+A    4
+ C1 
+A    5
+ C2 
+A    6
+ C3 
+A    7
+ N1 
+A    8
+ N2 
+A    9
+ C4 
+A   10
+ C5 
+A   11
+ N3 
+A   12
+ C6 
+A   13
+ C7 
+A   14
+ S2 
+A   15
+ N4 
+A   16
+ C8 
+A   17
+ C9 
+A   18
+ C10
+A   19
+ C11
+A   20
+ O3 
+A   21
+ N5 
+A   22
+ C12
+M  END
+>  <similarity>  (6) 
+NA
+
+>  <smiles>  (6) 
+O=S1(=O)CCC(n2nc(-c3nccs3)nc2-c2ccon2)C1
+
+>  <cmpd_id>  (6) 
+ENAMINE:PV-001996848401
+
+>  <used_subnode>  (6) 
+NA
+
+>  <used_synthon>  (6) 
+NA
+
+>  <ref_subnode>  (6) 
+O=S1(=O)CCCC1
+
+>  <ref_synthon>  (6) 
+[Xe]c1nccs1
+
+>  <fragmentA>  (6) 
+cx1182a
+
+>  <fragmentB>  (6) 
+cx0281a
+
+>  <HA>  (6) 
+22
+
+>  <HBD>  (6) 
+0
+
+>  <HBA>  (6) 
+9
+
+>  <MW>  (6) 
+337.030331212
+
+>  <TPSA>  (6) 
+103.77
+
+>  <LogP>  (6) 
+1.4162
+
+>  <RBs>  (6) 
+3
+
+>  <G_bound>  (6) 
+-8.022353028117852
+
+>  <G_unbound>  (6) 
+1.3022838351727368
+
+>  <deltaG>  (6) 
+-9.32463686329059
+
+>  <comRMSD>  (6) 
+0.8589168698762533
+
+>  <substructure_overlap_check>  (6) 
+True
+
+>  <energy_ratio_check>  (6) 
+True
+
+>  <const_energy/unconst_energy>  (6) 
+1.7198854832927974
+
+>  <sucos>  (6) 
+0.581837720536632
+
+>  <interactions>  (6) 
+Hydrophobic_VAL-113,HBAcceptor_SER-110,Hydrophobic_VAL-33,Hydrophobic_ALA-22,HBAcceptor_ASP-31,Hydrophobic_CYS-34,HBAcceptor_ASN-24,Hydrophobic_TYR-114,PiStacking_TYR-114,Hydrophobic_PRO-107
+
+>  <total_num_ints>  (6) 
+10
+
+>  <total_num_ints_nonhyd>  (6) 
+4
+
+>  <num_uniq_frag_ints>  (6) 
+9
+
+>  <num_repl_uniq_ints>  (6) 
+8
+
+>  <num_uniq_ints_lost>  (6) 
+1
+
+>  <num_new_uniq_ints>  (6) 
+2
+
+>  <int_check>  (6) 
+True
+
+>  <rationale>  (6) 
+FragNet: perfect merge incl O=S1(=O)CCCC1,[Xe]c1nccs1
+
+>  <original SMILES>  (6) 
+O=S1(=O)CCC(n2nc(-c3nccs3)nc2-c2ccon2)C1
+
+>  <original_name>  (6) 
+cx1182a-cx0281a_483_PXX
+
+>  <ref_mols>  (6) 
+cx1182a,cx0281a
+
+>  <ref_pdb>  (6) 
+cx1182a
+
+$$$$
+PV-002900508689
+     RDKit          3D
+
+ 18 19  0  0  0  0  0  0  0  0999 V2000
+    8.3030    5.1350   16.1390 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.2720    5.8360   15.1280 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0760    6.6720   14.8360 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0770    6.9010   15.9000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    4.7130    6.2950   15.6360 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7680    6.5350   16.3650 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5870    5.5050   14.5630 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6230    6.4980   17.2310 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6780    7.0910   18.2870 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5720    8.7710   17.8140 S   0  0  0  0  0  6  0  0  0  0  0  0
+    6.7420    9.4660   18.2590 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2490    9.2590   18.1180 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7750    8.3890   16.0940 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.3930    5.8730   14.1620 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.4600    6.7250   14.0370 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.3100    6.4470   13.0050 N   0  0  0  0  0  0  0  0  0  0  0  0
+   10.9010    5.3960   12.3450 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.4890    4.6790   12.9230 S   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0
+  2  3  1  0
+  4  3  1  6
+  4  5  1  0
+  5  6  2  0
+  5  7  1  0
+  4  8  1  0
+  8  9  1  0
+  9 10  1  0
+ 10 11  2  0
+ 10 12  2  0
+ 10 13  1  0
+  2 14  1  0
+ 14 15  2  0
+ 15 16  1  0
+ 16 17  2  0
+ 17 18  1  0
+ 13  4  1  0
+ 18 14  1  0
+A    1
+ O1 
+A    2
+ C1 
+A    3
+ N1 
+A    4
+ C2 
+A    5
+ C3 
+A    6
+ O2 
+A    7
+ O3 
+A    8
+ C4 
+A    9
+ C5 
+A   10
+ S1 
+A   11
+ O4 
+A   12
+ O5 
+A   13
+ C6 
+A   14
+ C7 
+A   15
+ C8 
+A   16
+ N2 
+A   17
+ C9 
+A   18
+ S2 
+M  END
+>  <similarity>  (7) 
+1.0
+
+>  <smiles>  (7) 
+O=C(NC1(C(=O)O)CCS(=O)(=O)C1)c1cncs1
+
+>  <cmpd_id>  (7) 
+ENAMINE:PV-002900508689
+
+>  <used_subnode>  (7) 
+O=S1(=O)CCCC1
+
+>  <used_synthon>  (7) 
+[Xe]c1cncs1
+
+>  <ref_subnode>  (7) 
+O=S1(=O)CCCC1
+
+>  <ref_synthon>  (7) 
+[Xe]c1nccs1
+
+>  <fragmentA>  (7) 
+cx1182a
+
+>  <fragmentB>  (7) 
+cx0281a
+
+>  <HA>  (7) 
+18
+
+>  <HBD>  (7) 
+2
+
+>  <HBA>  (7) 
+6
+
+>  <MW>  (7) 
+290.00311342000003
+
+>  <TPSA>  (7) 
+113.42999999999999
+
+>  <LogP>  (7) 
+-0.48519999999999985
+
+>  <RBs>  (7) 
+3
+
+>  <G_bound>  (7) 
+-4.619352156514088
+
+>  <G_unbound>  (7) 
+1.6763053126910068
+
+>  <deltaG>  (7) 
+-6.295657469205095
+
+>  <comRMSD>  (7) 
+1.3579353899428013
+
+>  <substructure_overlap_check>  (7) 
+True
+
+>  <energy_ratio_check>  (7) 
+True
+
+>  <const_energy/unconst_energy>  (7) 
+2.6328588973693434
+
+>  <sucos>  (7) 
+0.5570060118008194
+
+>  <interactions>  (7) 
+Hydrophobic_VAL-33,HBAcceptor_ASN-24,Hydrophobic_CYS-34,Hydrophobic_PRO-107,Hydrophobic_ALA-22,HBDonor_ALA-22,HBAcceptor_ASP-31,Hydrophobic_TYR-114,HBDonor_ALA-23,Hydrophobic_VAL-113
+
+>  <total_num_ints>  (7) 
+10
+
+>  <total_num_ints_nonhyd>  (7) 
+4
+
+>  <num_uniq_frag_ints>  (7) 
+9
+
+>  <num_repl_uniq_ints>  (7) 
+8
+
+>  <num_uniq_ints_lost>  (7) 
+1
+
+>  <num_new_uniq_ints>  (7) 
+2
+
+>  <int_check>  (7) 
+True
+
+>  <rationale>  (7) 
+FragNet: 1 round bioisosteric merging incl O=S1(=O)CCCC1 and [Xe]c1cncs1 replacing [Xe]c1nccs1
+
+>  <original SMILES>  (7) 
+O=C(NC1(C(=O)O)CCS(=O)(=O)C1)c1cncs1
+
+>  <original_name>  (7) 
+cx1182a-cx0281a_24_B1X
+
+>  <ref_mols>  (7) 
+cx1182a,cx0281a
+
+>  <ref_pdb>  (7) 
+cx1182a
+
+$$$$
+PV-001996909142
+     RDKit          3D
+
+ 22 25  0  0  0  0  0  0  0  0999 V2000
+    6.4890    9.8530   17.6130 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4310    8.9600   17.9150 S   0  0  0  0  0  6  0  0  0  0  0  0
+    4.1480    9.3790   18.4090 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0830    7.7680   19.0440 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9330    6.8960   18.1660 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1920    6.7150   16.8630 C   0  0  2  0  0  0  0  0  0  0  0  0
+    7.0990    6.2870   15.8600 N   0  0  0  0  0  0  0  0  0  0  0  0
+    8.4540    6.4960   15.9950 N   0  0  0  0  0  0  0  0  0  0  0  0
+    8.8790    5.9660   14.8360 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.2580    5.8590   14.0940 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.4380    6.3170   14.4380 N   0  0  0  0  0  0  0  0  0  0  0  0
+   12.3390    5.9920   13.4300 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.8260    5.3020   12.3490 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.1650    5.0420   12.5870 S   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9180    5.4340   14.1170 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8120    5.6760   14.7120 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4790    5.3410   14.1480 C   0  0  1  0  0  0  0  0  0  0  0  0
+    5.4990    4.2510   13.1100 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1560    3.1470   13.9960 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9900    3.6870   14.5490 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4890    4.8910   15.1190 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2510    7.8740   16.5340 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0
+  2  3  2  0
+  2  4  1  0
+  4  5  1  0
+  5  6  1  0
+  6  7  1  6
+  7  8  1  0
+  8  9  2  0
+  9 10  1  0
+ 10 11  2  0
+ 11 12  1  0
+ 12 13  2  0
+ 13 14  1  0
+  9 15  1  0
+ 15 16  2  0
+ 17 16  1  1
+ 17 18  1  0
+ 18 19  1  0
+ 19 20  1  0
+ 20 21  1  0
+  6 22  1  0
+ 22  2  1  0
+ 16  7  1  0
+ 21 17  1  0
+ 14 10  1  0
+A    1
+ O1 
+A    2
+ S1 
+A    3
+ O2 
+A    4
+ C1 
+A    5
+ C2 
+A    6
+ C3 
+A    7
+ N1 
+A    8
+ N2 
+A    9
+ C4 
+A   10
+ C5 
+A   11
+ N3 
+A   12
+ C6 
+A   13
+ C7 
+A   14
+ S2 
+A   15
+ N4 
+A   16
+ C8 
+A   17
+ C9 
+A   18
+ C10
+A   19
+ C11
+A   20
+ O3 
+A   21
+ C12
+A   22
+ C13
+M  END
+>  <similarity>  (8) 
+NA
+
+>  <smiles>  (8) 
+O=S1(=O)CCC(n2nc(-c3nccs3)nc2C2CCOC2)C1
+
+>  <cmpd_id>  (8) 
+ENAMINE:PV-001996909142
+
+>  <used_subnode>  (8) 
+NA
+
+>  <used_synthon>  (8) 
+NA
+
+>  <ref_subnode>  (8) 
+O=S1(=O)CCCC1
+
+>  <ref_synthon>  (8) 
+[Xe]c1nccs1
+
+>  <fragmentA>  (8) 
+cx1182a
+
+>  <fragmentB>  (8) 
+cx0281a
+
+>  <HA>  (8) 
+22
+
+>  <HBD>  (8) 
+0
+
+>  <HBA>  (8) 
+8
+
+>  <MW>  (8) 
+340.06638237199996
+
+>  <TPSA>  (8) 
+86.97
+
+>  <LogP>  (8) 
+1.2651
+
+>  <RBs>  (8) 
+3
+
+>  <G_bound>  (8) 
+-1.926028949936105
+
+>  <G_unbound>  (8) 
+1.131577298089304
+
+>  <deltaG>  (8) 
+-3.057606248025409
+
+>  <comRMSD>  (8) 
+0.8495441550968418
+
+>  <substructure_overlap_check>  (8) 
+True
+
+>  <energy_ratio_check>  (8) 
+True
+
+>  <const_energy/unconst_energy>  (8) 
+2.4857793912063277
+
+>  <sucos>  (8) 
+0.5742875698108076
+
+>  <interactions>  (8) 
+Hydrophobic_VAL-113,Hydrophobic_VAL-33,Hydrophobic_ALA-22,HBAcceptor_ASP-31,Hydrophobic_CYS-34,Hydrophobic_ASN-24,HBAcceptor_ASN-24,Hydrophobic_TYR-114,PiStacking_TYR-114,Hydrophobic_LEU-109
+
+>  <total_num_ints>  (8) 
+10
+
+>  <total_num_ints_nonhyd>  (8) 
+3
+
+>  <num_uniq_frag_ints>  (8) 
+9
+
+>  <num_repl_uniq_ints>  (8) 
+8
+
+>  <num_uniq_ints_lost>  (8) 
+1
+
+>  <num_new_uniq_ints>  (8) 
+2
+
+>  <int_check>  (8) 
+True
+
+>  <rationale>  (8) 
+FragNet: perfect merge incl O=S1(=O)CCCC1,[Xe]c1nccs1
+
+>  <original SMILES>  (8) 
+O=S1(=O)CCC(n2nc(-c3nccs3)nc2C2CCOC2)C1
+
+>  <original_name>  (8) 
+cx1182a-cx0281a_479_PXX
+
+>  <ref_mols>  (8) 
+cx1182a,cx0281a
+
+>  <ref_pdb>  (8) 
+cx1182a
+
+$$$$
+PV-001996865355
+     RDKit          3D
+
+ 20 22  0  0  0  0  0  0  0  0999 V2000
+    6.5570    9.7280   17.5560 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5230    8.7580   17.7480 S   0  0  0  0  0  6  0  0  0  0  0  0
+    4.2250    9.1420   18.2370 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2070    7.4830   18.7640 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9310    6.5760   17.7790 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0760    6.4090   16.5170 C   0  0  2  0  0  0  0  0  0  0  0  0
+    7.0850    5.8640   15.4110 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3100    6.3370   15.2730 N   0  0  0  0  0  0  0  0  0  0  0  0
+    8.8190    5.6170   14.2390 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.0370    5.7390   13.6460 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.1680    6.1310   14.2490 N   0  0  0  0  0  0  0  0  0  0  0  0
+   12.2000    6.1280   13.3320 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.7370    5.7090   12.0090 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.0930    5.3550   11.9640 S   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0070    4.6920   13.7280 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8980    4.8670   14.4540 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7640    4.0350   14.1130 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4710    4.8350   14.1180 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5260    5.7040   15.1500 F   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4260    7.7830   16.2470 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0
+  2  3  2  0
+  2  4  1  0
+  4  5  1  0
+  5  6  1  0
+  6  7  1  6
+  7  8  2  0
+  8  9  1  0
+  9 10  1  0
+ 10 11  2  0
+ 11 12  1  0
+ 12 13  2  0
+ 13 14  1  0
+  9 15  2  0
+ 15 16  1  0
+ 16 17  1  0
+ 17 18  1  0
+ 18 19  1  0
+  6 20  1  0
+ 20  2  1  0
+ 16  7  1  0
+ 14 10  1  0
+A    1
+ O1 
+A    2
+ S1 
+A    3
+ O2 
+A    4
+ C1 
+A    5
+ C2 
+A    6
+ C3 
+A    7
+ C4 
+A    8
+ N1 
+A    9
+ C5 
+A   10
+ C6 
+A   11
+ N2 
+A   12
+ C7 
+A   13
+ C8 
+A   14
+ S2 
+A   15
+ N3 
+A   16
+ N4 
+A   17
+ C9 
+A   18
+ C10
+A   19
+ F1 
+A   20
+ C11
+M  END
+>  <similarity>  (9) 
+NA
+
+>  <smiles>  (9) 
+O=S1(=O)CCC(c2nc(-c3nccs3)nn2CCF)C1
+
+>  <cmpd_id>  (9) 
+ENAMINE:PV-001996865355
+
+>  <used_subnode>  (9) 
+NA
+
+>  <used_synthon>  (9) 
+NA
+
+>  <ref_subnode>  (9) 
+O=S1(=O)CCCC1
+
+>  <ref_synthon>  (9) 
+[Xe]c1nccs1
+
+>  <fragmentA>  (9) 
+cx1182a
+
+>  <fragmentB>  (9) 
+cx0281a
+
+>  <HA>  (9) 
+20
+
+>  <HBD>  (9) 
+0
+
+>  <HBA>  (9) 
+7
+
+>  <MW>  (9) 
+316.046395876
+
+>  <TPSA>  (9) 
+77.74000000000001
+
+>  <LogP>  (9) 
+1.2731999999999999
+
+>  <RBs>  (9) 
+4
+
+>  <G_bound>  (9) 
+-5.248861115573624
+
+>  <G_unbound>  (9) 
+1.143585568302928
+
+>  <deltaG>  (9) 
+-6.392446683876552
+
+>  <comRMSD>  (9) 
+0.7203933780985781
+
+>  <substructure_overlap_check>  (9) 
+True
+
+>  <energy_ratio_check>  (9) 
+True
+
+>  <const_energy/unconst_energy>  (9) 
+2.5702148400302587
+
+>  <sucos>  (9) 
+0.5949252451887129
+
+>  <interactions>  (9) 
+Hydrophobic_VAL-113,HBAcceptor_SER-110,Hydrophobic_VAL-33,Hydrophobic_ALA-22,HBAcceptor_ASP-31,Hydrophobic_CYS-34,HBAcceptor_ASN-24,Hydrophobic_TYR-114,Hydrophobic_PRO-107
+
+>  <total_num_ints>  (9) 
+9
+
+>  <total_num_ints_nonhyd>  (9) 
+3
+
+>  <num_uniq_frag_ints>  (9) 
+9
+
+>  <num_repl_uniq_ints>  (9) 
+8
+
+>  <num_uniq_ints_lost>  (9) 
+1
+
+>  <num_new_uniq_ints>  (9) 
+1
+
+>  <int_check>  (9) 
+True
+
+>  <rationale>  (9) 
+FragNet: perfect merge incl O=S1(=O)CCCC1,[Xe]c1nccs1
+
+>  <original SMILES>  (9) 
+O=S1(=O)CCC(c2nc(-c3nccs3)nn2CCF)C1
+
+>  <original_name>  (9) 
+cx1182a-cx0281a_336_PXX
+
+>  <ref_mols>  (9) 
+cx1182a,cx0281a
+
+>  <ref_pdb>  (9) 
+cx1182a
+
+$$$$
+PV-003629074285
+     RDKit          3D
+
+ 17 19  0  0  0  0  0  0  0  0999 V2000
+    6.4820    9.7830   17.6080 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5730    8.6920   17.7740 S   0  0  0  0  0  6  0  0  0  0  0  0
+    4.2830    8.8620   18.3840 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4160    7.4640   18.7280 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9610    6.5080   17.6950 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0550    6.3920   16.4710 C   0  0  2  0  0  0  0  0  0  0  0  0
+    6.9090    5.7250   15.3920 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7040    4.6510   14.6630 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8410    4.5020   13.8880 N   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6500    5.5010   14.1940 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.0240    5.7410   13.5770 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.1600    5.3960   12.1310 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.4370    5.6820   11.8280 O   0  0  0  0  0  0  0  0  0  0  0  0
+   11.9500    6.1420   13.0110 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.1670    6.2090   14.0800 N   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1100    6.3180   15.1460 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5030    7.7990   16.2140 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0
+  2  3  2  0
+  2  4  1  0
+  4  5  1  0
+  5  6  1  0
+  6  7  1  6
+  7  8  2  0
+  8  9  1  0
+  9 10  2  0
+ 10 11  1  0
+ 11 12  2  0
+ 12 13  1  0
+ 13 14  1  0
+ 14 15  2  0
+ 10 16  1  0
+  6 17  1  0
+ 17  2  1  0
+ 16  7  1  0
+ 15 11  1  0
+A    1
+ O1 
+A    2
+ S1 
+A    3
+ O2 
+A    4
+ C1 
+A    5
+ C2 
+A    6
+ C3 
+A    7
+ C4 
+A    8
+ N1 
+A    9
+ N2 
+A   10
+ C5 
+A   11
+ C6 
+A   12
+ C7 
+A   13
+ O3 
+A   14
+ C8 
+A   15
+ N3 
+A   16
+ O4 
+A   17
+ C9 
+M  END
+>  <similarity>  (10) 
+1.0
+
+>  <smiles>  (10) 
+O=S1(=O)CCC(c2nnc(-c3cocn3)o2)C1
+
+>  <cmpd_id>  (10) 
+ENAMINE:PV-003629074285
+
+>  <used_subnode>  (10) 
+O=S1(=O)CCCC1
+
+>  <used_synthon>  (10) 
+[Xe]c1cocn1
+
+>  <ref_subnode>  (10) 
+O=S1(=O)CCCC1
+
+>  <ref_synthon>  (10) 
+[Xe]c1nccs1
+
+>  <fragmentA>  (10) 
+cx1182a
+
+>  <fragmentB>  (10) 
+cx0281a
+
+>  <HA>  (10) 
+17
+
+>  <HBD>  (10) 
+0
+
+>  <HBA>  (10) 
+7
+
+>  <MW>  (10) 
+255.031376768
+
+>  <TPSA>  (10) 
+99.09
+
+>  <LogP>  (10) 
+0.6266999999999998
+
+>  <RBs>  (10) 
+2
+
+>  <G_bound>  (10) 
+-6.416718314913769
+
+>  <G_unbound>  (10) 
+0.7592078996627779
+
+>  <deltaG>  (10) 
+-7.175926214576547
+
+>  <comRMSD>  (10) 
+1.248410195270172
+
+>  <substructure_overlap_check>  (10) 
+True
+
+>  <energy_ratio_check>  (10) 
+True
+
+>  <const_energy/unconst_energy>  (10) 
+1.7443186196372118
+
+>  <sucos>  (10) 
+0.6018360717624476
+
+>  <interactions>  (10) 
+HBAcceptor_SER-110,Hydrophobic_VAL-33,HBAcceptor_ASN-24,Hydrophobic_CYS-34,Hydrophobic_PRO-107,Hydrophobic_ALA-22,HBAcceptor_ASP-31,Hydrophobic_TYR-114,Hydrophobic_VAL-113
+
+>  <total_num_ints>  (10) 
+9
+
+>  <total_num_ints_nonhyd>  (10) 
+3
+
+>  <num_uniq_frag_ints>  (10) 
+9
+
+>  <num_repl_uniq_ints>  (10) 
+8
+
+>  <num_uniq_ints_lost>  (10) 
+1
+
+>  <num_new_uniq_ints>  (10) 
+1
+
+>  <int_check>  (10) 
+True
+
+>  <rationale>  (10) 
+FragNet: 1 round bioisosteric merging incl O=S1(=O)CCCC1 and [Xe]c1cocn1 replacing [Xe]c1nccs1
+
+>  <original SMILES>  (10) 
+O=S1(=O)CCC(c2nnc(-c3cocn3)o2)C1
+
+>  <original_name>  (10) 
+cx1182a-cx0281a_377_B1X
+
+>  <ref_mols>  (10) 
+cx1182a,cx0281a
+
+>  <ref_pdb>  (10) 
+cx1182a
+
+$$$$
+Z2001031667
+     RDKit          3D
+
+ 18 20  0  0  0  0  0  0  0  0999 V2000
+    6.1870   10.0100   17.5360 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2910    8.9650   17.8730 S   0  0  0  0  0  6  0  0  0  0  0  0
+    4.2220    9.0850   18.8350 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3760    7.7130   18.4370 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6260    6.9270   17.1830 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3300    6.7550   16.4680 C   0  0  2  0  0  0  0  0  0  0  0  0
+    5.5230    5.8930   15.2390 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9860    5.4990   15.2320 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8550    5.9320   14.4180 N   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9840    5.3130   14.7490 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.2430    5.6070   13.8660 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.3930    6.0920   14.2770 N   0  0  0  0  0  0  0  0  0  0  0  0
+   12.2460    6.1790   13.1940 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.7180    5.7590   11.9730 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.1110    5.2570   12.1980 S   0  0  0  0  0  0  0  0  0  0  0  0
+    8.8710    4.4870   15.8000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5110    4.6110   16.1350 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7680    8.1570   16.3660 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0
+  2  3  2  0
+  2  4  1  0
+  4  5  1  0
+  5  6  1  0
+  6  7  1  6
+  7  8  1  0
+  8  9  2  0
+  9 10  1  0
+ 10 11  1  0
+ 11 12  2  0
+ 12 13  1  0
+ 13 14  2  0
+ 14 15  1  0
+ 10 16  2  0
+ 16 17  1  0
+  6 18  1  0
+ 18  2  1  0
+ 17  8  1  0
+ 15 11  1  0
+A    1
+ O1 
+A    2
+ S1 
+A    3
+ O2 
+A    4
+ C1 
+A    5
+ C2 
+A    6
+ C3 
+A    7
+ C4 
+A    8
+ C5 
+A    9
+ N1 
+A   10
+ C6 
+A   11
+ C7 
+A   12
+ N2 
+A   13
+ C8 
+A   14
+ C9 
+A   15
+ S2 
+A   16
+ N3 
+A   17
+ O3 
+A   18
+ C10
+M  END
+>  <similarity>  (11) 
+NA
+
+>  <smiles>  (11) 
+O=S1(=O)CCC(Cc2nc(-c3nccs3)no2)C1
+
+>  <cmpd_id>  (11) 
+ENAMINE:Z2001031667
+
+>  <used_subnode>  (11) 
+NA
+
+>  <used_synthon>  (11) 
+NA
+
+>  <ref_subnode>  (11) 
+O=S1(=O)CCCC1
+
+>  <ref_synthon>  (11) 
+[Xe]c1nccs1
+
+>  <fragmentA>  (11) 
+cx1182a
+
+>  <fragmentB>  (11) 
+cx0281a
+
+>  <HA>  (11) 
+18
+
+>  <HBD>  (11) 
+0
+
+>  <HBA>  (11) 
+7
+
+>  <MW>  (11) 
+285.024183212
+
+>  <TPSA>  (11) 
+85.95
+
+>  <LogP>  (11) 
+1.1703000000000001
+
+>  <RBs>  (11) 
+3
+
+>  <G_bound>  (11) 
+-4.125733633418183
+
+>  <G_unbound>  (11) 
+0.8549971725760076
+
+>  <deltaG>  (11) 
+-4.980730805994191
+
+>  <comRMSD>  (11) 
+0.5467374619814959
+
+>  <substructure_overlap_check>  (11) 
+True
+
+>  <energy_ratio_check>  (11) 
+True
+
+>  <const_energy/unconst_energy>  (11) 
+2.39749101112871
+
+>  <sucos>  (11) 
+0.6069916925128435
+
+>  <interactions>  (11) 
+Hydrophobic_VAL-113,Hydrophobic_VAL-33,Hydrophobic_ALA-22,HBAcceptor_ASP-31,Hydrophobic_CYS-34,Hydrophobic_ASN-24,HBAcceptor_ASN-24,Hydrophobic_TYR-114,HBAcceptor_TYR-114,Hydrophobic_PRO-107
+
+>  <total_num_ints>  (11) 
+10
+
+>  <total_num_ints_nonhyd>  (11) 
+3
+
+>  <num_uniq_frag_ints>  (11) 
+9
+
+>  <num_repl_uniq_ints>  (11) 
+9
+
+>  <num_uniq_ints_lost>  (11) 
+0
+
+>  <num_new_uniq_ints>  (11) 
+1
+
+>  <int_check>  (11) 
+True
+
+>  <rationale>  (11) 
+FragNet: perfect merge incl O=S1(=O)CCCC1,[Xe]c1nccs1
+
+>  <original SMILES>  (11) 
+O=S1(=O)CCC(Cc2nc(-c3nccs3)no2)C1
+
+>  <original_name>  (11) 
+cx1182a-cx0281a_413_PXX
+
+>  <ref_mols>  (11) 
+cx1182a,cx0281a
+
+>  <ref_pdb>  (11) 
+cx1182a
+
+$$$$
+Z2614944526
+     RDKit          3D
+
+ 17 18  0  0  0  0  0  0  0  0999 V2000
+    9.9280    7.5060   17.6760 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.7740    6.6800   17.6310 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5930    7.4120   17.2980 C   0  0  2  0  0  0  0  0  0  0  0  0
+    6.7800    7.6080   18.5500 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4530    8.5450   17.8850 S   0  0  0  0  0  6  0  0  0  0  0  0
+    5.9320    9.8750   17.6190 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2900    8.3120   18.7070 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3500    7.6410   16.3480 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6200    6.7490   16.3160 C   0  0  1  0  0  0  0  0  0  0  0  0
+    7.2940    6.6060   15.0220 N   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1710    5.5180   14.8010 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8940    4.4210   15.2920 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.4020    5.7200   13.9910 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.4500    6.4920   14.3280 N   0  0  0  0  0  0  0  0  0  0  0  0
+   11.3960    6.3800   13.3290 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.0670    5.4950   12.1690 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.5160    4.8700   12.4980 S   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  3  2  1  1
+  3  4  1  0
+  4  5  1  0
+  5  6  2  0
+  5  7  2  0
+  5  8  1  0
+  8  9  1  0
+  9 10  1  6
+ 10 11  1  0
+ 11 12  2  0
+ 11 13  1  0
+ 13 14  2  0
+ 14 15  1  0
+ 15 16  2  0
+ 16 17  1  0
+  9  3  1  0
+ 17 13  1  0
+A    1
+ C1 
+A    2
+ O1 
+A    3
+ C2 
+A    4
+ C3 
+A    5
+ S1 
+A    6
+ O2 
+A    7
+ O3 
+A    8
+ C4 
+A    9
+ C5 
+A   10
+ N1 
+A   11
+ C6 
+A   12
+ O4 
+A   13
+ C7 
+A   14
+ N2 
+A   15
+ C8 
+A   16
+ C9 
+A   17
+ S2 
+M  END
+>  <similarity>  (12) 
+NA
+
+>  <smiles>  (12) 
+COC1CS(=O)(=O)CC1NC(=O)c1nccs1
+
+>  <cmpd_id>  (12) 
+ENAMINE:Z2614944526
+
+>  <used_subnode>  (12) 
+NA
+
+>  <used_synthon>  (12) 
+NA
+
+>  <ref_subnode>  (12) 
+O=S1(=O)CCCC1
+
+>  <ref_synthon>  (12) 
+[Xe]c1nccs1
+
+>  <fragmentA>  (12) 
+cx1182a
+
+>  <fragmentB>  (12) 
+cx0281a
+
+>  <HA>  (12) 
+17
+
+>  <HBD>  (12) 
+1
+
+>  <HBA>  (12) 
+6
+
+>  <MW>  (12) 
+276.023848864
+
+>  <TPSA>  (12) 
+85.36
+
+>  <LogP>  (12) 
+-0.3150999999999995
+
+>  <RBs>  (12) 
+3
+
+>  <G_bound>  (12) 
+-7.673522290802236
+
+>  <G_unbound>  (12) 
+0.5436919561935729
+
+>  <deltaG>  (12) 
+-8.217214246995809
+
+>  <comRMSD>  (12) 
+0.7340084470161565
+
+>  <substructure_overlap_check>  (12) 
+True
+
+>  <energy_ratio_check>  (12) 
+True
+
+>  <const_energy/unconst_energy>  (12) 
+1.9683692537295046
+
+>  <sucos>  (12) 
+0.6096059708798707
+
+>  <interactions>  (12) 
+Hydrophobic_VAL-113,HBAcceptor_VAL-113,Hydrophobic_VAL-33,Hydrophobic_ALA-22,HBDonor_ALA-22,HBAcceptor_ASP-31,Hydrophobic_CYS-34,Hydrophobic_TYR-114,Hydrophobic_PRO-107
+
+>  <total_num_ints>  (12) 
+9
+
+>  <total_num_ints_nonhyd>  (12) 
+3
+
+>  <num_uniq_frag_ints>  (12) 
+9
+
+>  <num_repl_uniq_ints>  (12) 
+7
+
+>  <num_uniq_ints_lost>  (12) 
+2
+
+>  <num_new_uniq_ints>  (12) 
+2
+
+>  <int_check>  (12) 
+True
+
+>  <rationale>  (12) 
+FragNet: perfect merge incl O=S1(=O)CCCC1,[Xe]c1nccs1
+
+>  <original SMILES>  (12) 
+COC1CS(=O)(=O)CC1NC(=O)c1nccs1
+
+>  <original_name>  (12) 
+cx1182a-cx0281a_227_PXX
+
+>  <ref_mols>  (12) 
+cx1182a,cx0281a
+
+>  <ref_pdb>  (12) 
+cx1182a
+
+$$$$
+Z3776498517
+     RDKit          3D
+
+ 15 16  0  0  0  0  0  0  0  0999 V2000
+    8.1180    7.8310   17.1520 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9060    7.0100   17.2430 C   0  0  1  0  0  0  0  0  0  0  0  0
+    6.0310    7.5120   18.3770 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3140    8.9090   17.6410 S   0  0  0  0  0  6  0  0  0  0  0  0
+    6.3880    9.8300   17.4390 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1410    9.2790   18.3830 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9450    8.0160   16.1410 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1050    6.9790   15.9460 C   0  0  1  0  0  0  0  0  0  0  0  0
+    7.0390    6.9190   14.7740 N   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5120    7.0120   15.0780 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.5750    6.3970   14.1010 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.7770    6.9720   14.0110 N   0  0  0  0  0  0  0  0  0  0  0  0
+   11.5930    6.3140   13.1170 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.9170    5.1450   12.5010 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.3290    4.9760   13.1040 S   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  6
+  2  3  1  0
+  3  4  1  0
+  4  5  2  0
+  4  6  2  0
+  4  7  1  0
+  7  8  1  0
+  8  9  1  6
+  9 10  1  0
+ 10 11  1  0
+ 11 12  2  0
+ 12 13  1  0
+ 13 14  2  0
+ 14 15  1  0
+  8  2  1  0
+ 15 11  1  0
+A    1
+ N1 
+A    2
+ C1 
+A    3
+ C2 
+A    4
+ S1 
+A    5
+ O1 
+A    6
+ O2 
+A    7
+ C3 
+A    8
+ C4 
+A    9
+ N2 
+A   10
+ C5 
+A   11
+ C6 
+A   12
+ N3 
+A   13
+ C7 
+A   14
+ C8 
+A   15
+ S2 
+M  END
+>  <similarity>  (13) 
+NA
+
+>  <smiles>  (13) 
+NC1CS(=O)(=O)CC1NCc1nccs1
+
+>  <cmpd_id>  (13) 
+ENAMINE:Z3776498517
+
+>  <used_subnode>  (13) 
+NA
+
+>  <used_synthon>  (13) 
+NA
+
+>  <ref_subnode>  (13) 
+O=S1(=O)CCCC1
+
+>  <ref_synthon>  (13) 
+[Xe]c1nccs1
+
+>  <fragmentA>  (13) 
+cx1182a
+
+>  <fragmentB>  (13) 
+cx0281a
+
+>  <HA>  (13) 
+15
+
+>  <HBD>  (13) 
+2
+
+>  <HBA>  (13) 
+6
+
+>  <MW>  (13) 
+247.044918656
+
+>  <TPSA>  (13) 
+85.08
+
+>  <LogP>  (13) 
+-0.6429999999999998
+
+>  <RBs>  (13) 
+3
+
+>  <G_bound>  (13) 
+-5.059960897012758
+
+>  <G_unbound>  (13) 
+0.35259958355839216
+
+>  <deltaG>  (13) 
+-5.41256048057115
+
+>  <comRMSD>  (13) 
+0.5363680534309542
+
+>  <substructure_overlap_check>  (13) 
+True
+
+>  <energy_ratio_check>  (13) 
+True
+
+>  <const_energy/unconst_energy>  (13) 
+4.503156562143078
+
+>  <sucos>  (13) 
+0.6629728632530549
+
+>  <interactions>  (13) 
+Hydrophobic_VAL-113,Hydrophobic_VAL-33,Hydrophobic_ALA-22,HBDonor_ALA-22,HBAcceptor_ASP-31,HBDonor_ASP-31,Hydrophobic_CYS-34,Hydrophobic_ASN-24,HBAcceptor_ASN-24,Hydrophobic_TYR-114
+
+>  <total_num_ints>  (13) 
+10
+
+>  <total_num_ints_nonhyd>  (13) 
+4
+
+>  <num_uniq_frag_ints>  (13) 
+9
+
+>  <num_repl_uniq_ints>  (13) 
+8
+
+>  <num_uniq_ints_lost>  (13) 
+1
+
+>  <num_new_uniq_ints>  (13) 
+2
+
+>  <int_check>  (13) 
+True
+
+>  <rationale>  (13) 
+FragNet: perfect merge incl O=S1(=O)CCCC1,[Xe]c1nccs1
+
+>  <original SMILES>  (13) 
+NC1CS(=O)(=O)CC1NCc1nccs1
+
+>  <original_name>  (13) 
+cx1182a-cx0281a_277_PXX
+
+>  <ref_mols>  (13) 
+cx1182a,cx0281a
+
+>  <ref_pdb>  (13) 
+cx1182a
+
+$$$$
+PV-002892496813
+     RDKit          3D
+
+ 20 21  0  0  0  0  0  0  0  0999 V2000
+    7.5170    3.9810   14.0820 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.4820    3.9640   14.8590 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.8130    2.9400   15.6390 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.5130    5.0040   15.0910 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2970    6.2960   14.3850 C   0  0  1  0  0  0  0  0  0  0  0  0
+    9.1940    7.1780   15.5330 N   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0410    6.6150   16.2460 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9550    5.4360   16.5700 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8930    7.5530   16.5160 C   0  0  1  0  0  0  0  0  0  0  0  0
+    5.5950    7.0050   15.9620 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5610    8.0190   16.3960 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2360    8.7860   17.8630 S   0  0  0  0  0  6  0  0  0  0  0  0
+    5.8850   10.0030   17.4930 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3450    8.6500   18.9900 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5770    7.6810   17.9910 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.4840    6.2160   13.5070 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.7070    6.6070   13.8140 N   0  0  0  0  0  0  0  0  0  0  0  0
+   12.4920    6.2830   12.7390 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.8910    5.6870   11.6760 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.2310    5.4900   11.9630 S   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0
+  2  3  1  0
+  2  4  1  0
+  5  4  1  1
+  5  6  1  0
+  6  7  1  0
+  7  8  2  0
+  9  7  1  1
+  9 10  1  0
+ 10 11  1  0
+ 11 12  1  0
+ 12 13  2  0
+ 12 14  2  0
+ 12 15  1  0
+  5 16  1  0
+ 16 17  2  0
+ 17 18  1  0
+ 18 19  2  0
+ 19 20  1  0
+ 15  9  1  0
+ 20 16  1  0
+A    1
+ O1 
+A    2
+ C1 
+A    3
+ O2 
+A    4
+ C2 
+A    5
+ C3 
+A    6
+ N1 
+A    7
+ C4 
+A    8
+ O3 
+A    9
+ C5 
+A   10
+ C6 
+A   11
+ C7 
+A   12
+ S1 
+A   13
+ O4 
+A   14
+ O5 
+A   15
+ C8 
+A   16
+ C9 
+A   17
+ N2 
+A   18
+ C10
+A   19
+ C11
+A   20
+ S2 
+M  END
+>  <similarity>  (14) 
+NA
+
+>  <smiles>  (14) 
+O=C(O)CC(NC(=O)C1CCS(=O)(=O)C1)c1nccs1
+
+>  <cmpd_id>  (14) 
+ENAMINE:PV-002892496813
+
+>  <used_subnode>  (14) 
+NA
+
+>  <used_synthon>  (14) 
+NA
+
+>  <ref_subnode>  (14) 
+O=S1(=O)CCCC1
+
+>  <ref_synthon>  (14) 
+[Xe]c1nccs1
+
+>  <fragmentA>  (14) 
+cx1182a
+
+>  <fragmentB>  (14) 
+cx0281a
+
+>  <HA>  (14) 
+20
+
+>  <HBD>  (14) 
+2
+
+>  <HBA>  (14) 
+6
+
+>  <MW>  (14) 
+318.03441354800003
+
+>  <TPSA>  (14) 
+113.42999999999999
+
+>  <LogP>  (14) 
+0.20980000000000043
+
+>  <RBs>  (14) 
+5
+
+>  <G_bound>  (14) 
+-2.1122597512810506
+
+>  <G_unbound>  (14) 
+1.6123866169045806
+
+>  <deltaG>  (14) 
+-3.724646368185631
+
+>  <comRMSD>  (14) 
+0.5542733237655717
+
+>  <substructure_overlap_check>  (14) 
+True
+
+>  <energy_ratio_check>  (14) 
+True
+
+>  <const_energy/unconst_energy>  (14) 
+6.219823274506613
+
+>  <sucos>  (14) 
+0.6683650549132798
+
+>  <interactions>  (14) 
+HBAcceptor_GLY-112,Hydrophobic_VAL-113,HBDonor_THR-111,HBAcceptor_SER-110,Hydrophobic_VAL-33,Hydrophobic_ALA-22,HBAcceptor_ASP-31,Hydrophobic_CYS-34,Hydrophobic_ASN-24,Hydrophobic_TYR-114,HBAcceptor_TYR-114,Hydrophobic_PRO-107
+
+>  <total_num_ints>  (14) 
+12
+
+>  <total_num_ints_nonhyd>  (14) 
+5
+
+>  <num_uniq_frag_ints>  (14) 
+9
+
+>  <num_repl_uniq_ints>  (14) 
+8
+
+>  <num_uniq_ints_lost>  (14) 
+1
+
+>  <num_new_uniq_ints>  (14) 
+4
+
+>  <int_check>  (14) 
+True
+
+>  <rationale>  (14) 
+FragNet: perfect merge incl O=S1(=O)CCCC1,[Xe]c1nccs1
+
+>  <original SMILES>  (14) 
+O=C(O)CC(NC(=O)C1CCS(=O)(=O)C1)c1nccs1
+
+>  <original_name>  (14) 
+cx1182a-cx0281a_405_PXX
+
+>  <ref_mols>  (14) 
+cx1182a,cx0281a
+
+>  <ref_pdb>  (14) 
+cx1182a
+
+$$$$
+Z409672458
+     RDKit          3D
+
+ 17 18  0  0  0  0  0  0  0  0999 V2000
+    8.9370    4.3860   16.0850 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.0310    5.5680   15.6970 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1690    6.6660   16.5100 N   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0540    7.5860   16.5320 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7940    6.8730   17.0010 C   0  0  2  0  0  0  0  0  0  0  0  0
+    5.6560    6.8950   16.0030 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6280    7.9870   16.3410 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2300    8.8250   17.7900 S   0  0  0  0  0  6  0  0  0  0  0  0
+    6.0970    9.9000   17.4220 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1970    8.9610   18.7840 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2870    7.5290   18.2860 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.0290    6.0930   14.4510 N   0  0  0  0  0  0  0  0  0  0  0  0
+   10.0600    5.9420   13.5940 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.2640    6.3720   13.8930 N   0  0  0  0  0  0  0  0  0  0  0  0
+   12.1170    6.0680   12.8500 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.5350    5.4210   11.7890 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.8720    5.1940   12.1050 S   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0
+  2  3  1  0
+  3  4  1  0
+  5  4  1  6
+  5  6  1  0
+  6  7  1  0
+  7  8  1  0
+  8  9  2  0
+  8 10  2  0
+  8 11  1  0
+  2 12  1  0
+ 12 13  1  0
+ 13 14  2  0
+ 14 15  1  0
+ 15 16  2  0
+ 16 17  1  0
+ 11  5  1  0
+ 17 13  1  0
+A    1
+ O1 
+A    2
+ C1 
+A    3
+ N1 
+A    4
+ C2 
+A    5
+ C3 
+A    6
+ C4 
+A    7
+ C5 
+A    8
+ S1 
+A    9
+ O2 
+A   10
+ O3 
+A   11
+ C6 
+A   12
+ N2 
+A   13
+ C7 
+A   14
+ N3 
+A   15
+ C8 
+A   16
+ C9 
+A   17
+ S2 
+M  END
+>  <similarity>  (15) 
+NA
+
+>  <smiles>  (15) 
+O=C(NCC1CCS(=O)(=O)C1)Nc1nccs1
+
+>  <cmpd_id>  (15) 
+ENAMINE:Z409672458
+
+>  <used_subnode>  (15) 
+NA
+
+>  <used_synthon>  (15) 
+NA
+
+>  <ref_subnode>  (15) 
+O=S1(=O)CCCC1
+
+>  <ref_synthon>  (15) 
+[Xe]c1nccs1
+
+>  <fragmentA>  (15) 
+cx1182a
+
+>  <fragmentB>  (15) 
+cx0281a
+
+>  <HA>  (15) 
+17
+
+>  <HBD>  (15) 
+2
+
+>  <HBA>  (15) 
+5
+
+>  <MW>  (15) 
+275.039833276
+
+>  <TPSA>  (15) 
+88.16
+
+>  <LogP>  (15) 
+0.6992999999999994
+
+>  <RBs>  (15) 
+3
+
+>  <G_bound>  (15) 
+-6.096137073133946
+
+>  <G_unbound>  (15) 
+0.4961209911363975
+
+>  <deltaG>  (15) 
+-6.592258064270343
+
+>  <comRMSD>  (15) 
+0.31890784394603167
+
+>  <substructure_overlap_check>  (15) 
+True
+
+>  <energy_ratio_check>  (15) 
+True
+
+>  <const_energy/unconst_energy>  (15) 
+3.6250870091654686
+
+>  <sucos>  (15) 
+0.6807134912158527
+
+>  <interactions>  (15) 
+Hydrophobic_VAL-113,Hydrophobic_VAL-33,Hydrophobic_ALA-22,HBAcceptor_ASP-31,Hydrophobic_CYS-34,Hydrophobic_ASN-24,HBAcceptor_ASN-24,Hydrophobic_TYR-114,HBAcceptor_TYR-114,Hydrophobic_PRO-107
+
+>  <total_num_ints>  (15) 
+10
+
+>  <total_num_ints_nonhyd>  (15) 
+3
+
+>  <num_uniq_frag_ints>  (15) 
+9
+
+>  <num_repl_uniq_ints>  (15) 
+9
+
+>  <num_uniq_ints_lost>  (15) 
+0
+
+>  <num_new_uniq_ints>  (15) 
+1
+
+>  <int_check>  (15) 
+True
+
+>  <rationale>  (15) 
+FragNet: perfect merge incl O=S1(=O)CCCC1,[Xe]c1nccs1
+
+>  <original SMILES>  (15) 
+O=C(NCC1CCS(=O)(=O)C1)Nc1nccs1
+
+>  <original_name>  (15) 
+cx1182a-cx0281a_389_PXX
+
+>  <ref_mols>  (15) 
+cx1182a,cx0281a
+
+>  <ref_pdb>  (15) 
+cx1182a
+
+$$$$
+PV-003438233037
+     RDKit          3D
+
+ 18 20  0  0  0  0  0  0  0  0999 V2000
+    7.0450    8.6720   15.9480 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7680    7.3390   16.5120 C   0  0  2  0  0  0  0  0  0  0  0  0
+    7.7940    6.4350   16.0060 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5770    6.7860   15.0520 N   0  0  0  0  0  0  0  0  0  0  0  0
+    9.3170    5.6880   14.8860 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.4010    5.7000   13.7800 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.6290    6.1010   13.9950 N   0  0  0  0  0  0  0  0  0  0  0  0
+   12.3410    5.9730   12.8260 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.6380    5.4850   11.7530 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.0190    5.1820   12.2060 S   0  0  0  0  0  0  0  0  0  0  0  0
+    9.0300    4.6660   15.7110 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9860    5.1700   16.4810 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4310    6.8800   15.9830 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4910    7.9610   16.4400 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2550    8.6960   17.8810 S   0  0  0  0  0  6  0  0  0  0  0  0
+    5.8910    9.9320   17.5230 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3730    8.5700   19.0190 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5330    7.5040   17.9900 C   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  6
+  2  3  1  0
+  3  4  2  0
+  4  5  1  0
+  5  6  1  0
+  6  7  2  0
+  7  8  1  0
+  8  9  2  0
+  9 10  1  0
+  5 11  2  0
+ 11 12  1  0
+  2 13  1  0
+ 13 14  1  0
+ 14 15  1  0
+ 15 16  2  0
+ 15 17  2  0
+ 15 18  1  0
+ 18  2  1  0
+ 12  3  1  0
+ 10  6  1  0
+A    1
+ N1 
+A    2
+ C1 
+A    3
+ C2 
+A    4
+ N2 
+A    5
+ C3 
+A    6
+ C4 
+A    7
+ N3 
+A    8
+ C5 
+A    9
+ C6 
+A   10
+ S1 
+A   11
+ N4 
+A   12
+ O1 
+A   13
+ C7 
+A   14
+ C8 
+A   15
+ S2 
+A   16
+ O2 
+A   17
+ O3 
+A   18
+ C9 
+M  END
+>  <similarity>  (16) 
+NA
+
+>  <smiles>  (16) 
+NC1(c2nc(-c3nccs3)no2)CCS(=O)(=O)C1
+
+>  <cmpd_id>  (16) 
+ENAMINE:PV-003438233037
+
+>  <used_subnode>  (16) 
+NA
+
+>  <used_synthon>  (16) 
+NA
+
+>  <ref_subnode>  (16) 
+O=S1(=O)CCCC1
+
+>  <ref_synthon>  (16) 
+[Xe]c1nccs1
+
+>  <fragmentA>  (16) 
+cx1182a
+
+>  <fragmentB>  (16) 
+cx0281a
+
+>  <HA>  (16) 
+18
+
+>  <HBD>  (16) 
+1
+
+>  <HBA>  (16) 
+8
+
+>  <MW>  (16) 
+286.01943217999997
+
+>  <TPSA>  (16) 
+111.97
+
+>  <LogP>  (16) 
+0.1656000000000004
+
+>  <RBs>  (16) 
+2
+
+>  <G_bound>  (16) 
+-7.036075732266676
+
+>  <G_unbound>  (16) 
+0.39335003361893617
+
+>  <deltaG>  (16) 
+-7.429425765885612
+
+>  <comRMSD>  (16) 
+0.47578050857455323
+
+>  <substructure_overlap_check>  (16) 
+True
+
+>  <energy_ratio_check>  (16) 
+True
+
+>  <const_energy/unconst_energy>  (16) 
+2.13475320710622
+
+>  <sucos>  (16) 
+0.6857984153614981
+
+>  <interactions>  (16) 
+Hydrophobic_VAL-113,Hydrophobic_VAL-33,Hydrophobic_ALA-22,HBAcceptor_ASP-31,HBDonor_ASP-31,Hydrophobic_CYS-34,Hydrophobic_ASN-24,Hydrophobic_TYR-114,HBAcceptor_TYR-114,Hydrophobic_PRO-107
+
+>  <total_num_ints>  (16) 
+10
+
+>  <total_num_ints_nonhyd>  (16) 
+3
+
+>  <num_uniq_frag_ints>  (16) 
+9
+
+>  <num_repl_uniq_ints>  (16) 
+8
+
+>  <num_uniq_ints_lost>  (16) 
+1
+
+>  <num_new_uniq_ints>  (16) 
+2
+
+>  <int_check>  (16) 
+True
+
+>  <rationale>  (16) 
+FragNet: perfect merge incl O=S1(=O)CCCC1,[Xe]c1nccs1
+
+>  <original SMILES>  (16) 
+NC1(c2nc(-c3nccs3)no2)CCS(=O)(=O)C1
+
+>  <original_name>  (16) 
+cx1182a-cx0281a_71_PXX
+
+>  <ref_mols>  (16) 
+cx1182a,cx0281a
+
+>  <ref_pdb>  (16) 
+cx1182a
+
+$$$$
+PV-002563444916,PV-001941652859
+     RDKit          3D
+
+ 18 19  0  0  0  0  0  0  0  0999 V2000
+   10.4020    8.2680   14.9920 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.3670    7.6490   14.7710 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1180    8.1180   15.0810 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7670    8.2200   16.4610 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9740    7.0120   16.9700 C   0  0  2  0  0  0  0  0  0  0  0  0
+    7.8010    5.8390   17.0110 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7420    6.7680   16.0890 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6730    7.8760   16.4840 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2820    8.6340   17.9770 S   0  0  0  0  0  6  0  0  0  0  0  0
+    6.0160    9.8190   17.6060 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2510    8.6530   18.9830 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4460    7.3490   18.3500 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.3040    6.4360   14.2090 N   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3780    6.1060   13.4960 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.6310    6.3280   13.7830 N   0  0  0  0  0  0  0  0  0  0  0  0
+   12.4060    5.8310   12.7680 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.6800    5.2280   11.7070 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.0040    5.3170   12.0480 S   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0
+  2  3  1  0
+  3  4  1  0
+  4  5  1  0
+  5  6  1  1
+  5  7  1  0
+  7  8  1  0
+  8  9  1  0
+  9 10  2  0
+  9 11  2  0
+  9 12  1  0
+  2 13  1  0
+ 13 14  1  0
+ 14 15  2  0
+ 15 16  1  0
+ 16 17  2  0
+ 17 18  1  0
+ 12  5  1  0
+ 18 14  1  0
+A    1
+ O1 
+A    2
+ C1 
+A    3
+ N1 
+A    4
+ C2 
+A    5
+ C3 
+A    6
+ O2 
+A    7
+ C4 
+A    8
+ C5 
+A    9
+ S1 
+A   10
+ O3 
+A   11
+ O4 
+A   12
+ C6 
+A   13
+ N2 
+A   14
+ C7 
+A   15
+ N3 
+A   16
+ C8 
+A   17
+ C9 
+A   18
+ S2 
+M  END
+>  <similarity>  (17) 
+NA
+
+>  <smiles>  (17) 
+O=C(NCC1(O)CCS(=O)(=O)C1)Nc1nccs1
+
+>  <cmpd_id>  (17) 
+ENAMINE:PV-002563444916,ENAMINE:PV-001941652859
+
+>  <used_subnode>  (17) 
+NA
+
+>  <used_synthon>  (17) 
+NA
+
+>  <ref_subnode>  (17) 
+O=S1(=O)CCCC1
+
+>  <ref_synthon>  (17) 
+[Xe]c1nccs1
+
+>  <fragmentA>  (17) 
+cx1182a
+
+>  <fragmentB>  (17) 
+cx0281a
+
+>  <HA>  (17) 
+18
+
+>  <HBD>  (17) 
+3
+
+>  <HBA>  (17) 
+6
+
+>  <MW>  (17) 
+291.034747896
+
+>  <TPSA>  (17) 
+108.39
+
+>  <LogP>  (17) 
+-0.18580000000000035
+
+>  <RBs>  (17) 
+3
+
+>  <G_bound>  (17) 
+-6.428788420919651
+
+>  <G_unbound>  (17) 
+0.9535900547635799
+
+>  <deltaG>  (17) 
+-7.382378475683231
+
+>  <comRMSD>  (17) 
+0.45872303263939945
+
+>  <substructure_overlap_check>  (17) 
+True
+
+>  <energy_ratio_check>  (17) 
+True
+
+>  <const_energy/unconst_energy>  (17) 
+4.052591513462443
+
+>  <sucos>  (17) 
+0.7067530160650417
+
+>  <interactions>  (17) 
+Hydrophobic_VAL-113,Hydrophobic_VAL-33,HBAcceptor_VAL-33,Hydrophobic_ALA-22,HBDonor_ALA-22,HBAcceptor_ASP-31,Hydrophobic_CYS-34,Hydrophobic_ASN-24,Hydrophobic_TYR-114,Hydrophobic_PRO-107
+
+>  <total_num_ints>  (17) 
+10
+
+>  <total_num_ints_nonhyd>  (17) 
+3
+
+>  <num_uniq_frag_ints>  (17) 
+9
+
+>  <num_repl_uniq_ints>  (17) 
+8
+
+>  <num_uniq_ints_lost>  (17) 
+1
+
+>  <num_new_uniq_ints>  (17) 
+2
+
+>  <int_check>  (17) 
+True
+
+>  <rationale>  (17) 
+FragNet: perfect merge incl O=S1(=O)CCCC1,[Xe]c1nccs1
+
+>  <original SMILES>  (17) 
+O=C(NCC1(O)CCS(=O)(=O)C1)Nc1nccs1
+
+>  <original_name>  (17) 
+cx1182a-cx0281a_172_PXX
+
+>  <ref_mols>  (17) 
+cx1182a,cx0281a
+
+>  <ref_pdb>  (17) 
+cx1182a
+
+$$$$
+Z1891090319
+     RDKit          3D
+
+ 23 26  0  0  0  0  0  0  0  0999 V2000
+   18.1330    4.4360   11.6370 O   0  0  0  0  0  0  0  0  0  0  0  0
+   17.3330    3.9110   12.4210 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.8270    3.2850   13.6620 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.9930    2.8840   14.6190 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.5840    3.0510   14.4450 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.1110    3.5130   13.2790 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.9550    3.8430   12.2200 N   0  0  0  0  0  0  0  0  0  0  0  0
+   15.5480    3.5020   10.8550 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.2380    4.0930   10.3740 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.1910    5.5520   10.3440 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.7450    6.4430   11.1150 N   0  0  0  0  0  0  0  0  0  0  0  0
+   14.2920    7.6300   10.5590 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.6140    8.9060   11.1840 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.1070    8.6900   12.4410 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.3780    9.7360   13.2760 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.1100   11.0040   12.8000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.2060   12.2930   13.3550 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.7850   13.1770   12.3990 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.4430   12.4650   11.2790 N   0  0  0  0  0  0  0  0  0  0  0  0
+   14.6330   11.1330   11.5000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.3840   10.1370   10.6150 N   0  0  0  0  0  0  0  0  0  0  0  0
+   13.5200    7.4670    9.4930 N   0  0  0  0  0  0  0  0  0  0  0  0
+   13.4390    6.0700    9.3540 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0
+  2  3  1  0
+  3  4  2  0
+  4  5  1  0
+  5  6  2  0
+  6  7  1  0
+  7  8  1  0
+  8  9  1  0
+  9 10  1  0
+ 10 11  2  0
+ 11 12  1  0
+ 12 13  1  0
+ 13 14  2  0
+ 14 15  1  0
+ 15 16  2  0
+ 16 17  1  0
+ 17 18  2  0
+ 18 19  1  0
+ 19 20  1  0
+ 20 21  2  0
+ 12 22  2  0
+ 22 23  1  0
+  7  2  1  0
+ 23 10  1  0
+ 21 13  1  0
+ 20 16  1  0
+A    1
+ O1 
+A    2
+ C1 
+A    3
+ C2 
+A    4
+ C3 
+A    5
+ C4 
+A    6
+ C5 
+A    7
+ N1 
+A    8
+ C6 
+A    9
+ C7 
+A   10
+ C8 
+A   11
+ N2 
+A   12
+ C9 
+A   13
+ C10
+A   14
+ C11
+A   15
+ C12
+A   16
+ C13
+A   17
+ C14
+A   18
+ C15
+A   19
+ N3 
+A   20
+ C16
+A   21
+ N4 
+A   22
+ N5 
+A   23
+ O2 
+M  END
+>  <similarity>  (18) 
+NA
+
+>  <smiles>  (18) 
+O=c1ccccn1CCc1nc(-c2ccc3cc[nH]c3n2)no1
+
+>  <cmpd_id>  (18) 
+ENAMINE:Z1891090319
+
+>  <used_subnode>  (18) 
+NA
+
+>  <used_synthon>  (18) 
+NA
+
+>  <ref_subnode>  (18) 
+c1cnc2[nH]ccc2c1
+
+>  <ref_synthon>  (18) 
+O=c1ccccn1[Xe]
+
+>  <fragmentA>  (18) 
+cx1402a
+
+>  <fragmentB>  (18) 
+cx0316a
+
+>  <HA>  (18) 
+23
+
+>  <HBD>  (18) 
+1
+
+>  <HBA>  (18) 
+6
+
+>  <MW>  (18) 
+307.10692465600005
+
+>  <TPSA>  (18) 
+89.60000000000001
+
+>  <LogP>  (18) 
+2.0172999999999996
+
+>  <RBs>  (18) 
+4
+
+>  <G_bound>  (18) 
+-5.370194745110918
+
+>  <G_unbound>  (18) 
+0.6634514694352366
+
+>  <deltaG>  (18) 
+-6.033646214546155
+
+>  <comRMSD>  (18) 
+0.8771816613594421
+
+>  <substructure_overlap_check>  (18) 
+True
+
+>  <energy_ratio_check>  (18) 
+True
+
+>  <const_energy/unconst_energy>  (18) 
+1.7848738211004835
+
+>  <sucos>  (18) 
+0.667341836414946
+
+>  <interactions>  (18) 
+Hydrophobic_ASP-10,Hydrophobic_CYS-143,Hydrophobic_ALA-36,Hydrophobic_VAL-33,Hydrophobic_LEU-108,HBAcceptor_LEU-108,Hydrophobic_ARG-144,HBAcceptor_ARG-144,Hydrophobic_ASP-145,HBAcceptor_ASP-145,Hydrophobic_TRP-148,Hydrophobic_PRO-107
+
+>  <total_num_ints>  (18) 
+12
+
+>  <total_num_ints_nonhyd>  (18) 
+3
+
+>  <num_uniq_frag_ints>  (18) 
+15
+
+>  <num_repl_uniq_ints>  (18) 
+10
+
+>  <num_uniq_ints_lost>  (18) 
+5
+
+>  <num_new_uniq_ints>  (18) 
+2
+
+>  <int_check>  (18) 
+True
+
+>  <rationale>  (18) 
+FragNet: perfect merge incl c1cnc2[nH]ccc2c1,O=c1ccccn1[Xe]
+
+>  <original SMILES>  (18) 
+O=c1ccccn1CCc1nc(-c2ccc3cc[nH]c3n2)no1
+
+>  <original_name>  (18) 
+cx1402a-cx0316a_8_PXX
+
+>  <ref_mols>  (18) 
+cx1402a,cx0316a
+
+>  <ref_pdb>  (18) 
+cx1402a
+
+$$$$
+PV-002439301529
+     RDKit          3D
+
+ 21 23  0  0  0  0  0  0  0  0999 V2000
+   14.8550    8.4490   13.6810 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.8130    9.2740   12.4230 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.9550    8.7060   11.1370 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.1360    7.2890   11.0600 N   0  0  0  0  0  0  0  0  0  0  0  0
+   14.6070    6.2690   11.8620 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.8530    6.4250   12.8180 O   0  0  0  0  0  0  0  0  0  0  0  0
+   15.0420    4.8350   11.4490 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.8100    4.1030   12.4770 N   0  0  0  0  0  0  0  0  0  0  0  0
+   15.1260    3.3690   13.4350 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.7280    2.9300   14.5430 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.1070    3.2310   14.7570 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.8150    3.8150   13.7910 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.2020    4.1420   12.4930 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.9230    4.4100   11.5250 O   0  0  0  0  0  0  0  0  0  0  0  0
+   14.9070    9.5840   10.0210 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.7330   10.9480   10.0520 N   0  0  0  0  0  0  0  0  0  0  0  0
+   14.5970   11.4090   11.3130 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.4050   12.7230   11.6550 N   0  0  0  0  0  0  0  0  0  0  0  0
+   14.3090   12.8390   13.0160 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.4420   11.5880   13.5560 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.6250   10.6670   12.4920 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  2  0
+  3  4  1  0
+  4  5  1  0
+  5  6  2  0
+  5  7  1  0
+  7  8  1  0
+  8  9  1  0
+  9 10  2  0
+ 10 11  1  0
+ 11 12  2  0
+ 12 13  1  0
+ 13 14  2  0
+  3 15  1  0
+ 15 16  2  0
+ 16 17  1  0
+ 17 18  1  0
+ 18 19  1  0
+ 19 20  2  0
+ 20 21  1  0
+ 21  2  1  0
+ 13  8  1  0
+ 21 17  2  0
+A    1
+ C1 
+A    2
+ C2 
+A    3
+ C3 
+A    4
+ N1 
+A    5
+ C4 
+A    6
+ O1 
+A    7
+ C5 
+A    8
+ N2 
+A    9
+ C6 
+A   10
+ C7 
+A   11
+ C8 
+A   12
+ C9 
+A   13
+ C10
+A   14
+ O2 
+A   15
+ C11
+A   16
+ N3 
+A   17
+ C12
+A   18
+ N4 
+A   19
+ C13
+A   20
+ C14
+A   21
+ C15
+M  END
+>  <similarity>  (19) 
+NA
+
+>  <smiles>  (19) 
+Cc1c(NC(=O)Cn2ccccc2=O)cnc2[nH]ccc12
+
+>  <cmpd_id>  (19) 
+ENAMINE:PV-002439301529
+
+>  <used_subnode>  (19) 
+NA
+
+>  <used_synthon>  (19) 
+NA
+
+>  <ref_subnode>  (19) 
+c1cnc2[nH]ccc2c1
+
+>  <ref_synthon>  (19) 
+O=c1ccccn1[Xe]
+
+>  <fragmentA>  (19) 
+cx1402a
+
+>  <fragmentB>  (19) 
+cx0316a
+
+>  <HA>  (19) 
+21
+
+>  <HBD>  (19) 
+2
+
+>  <HBA>  (19) 
+4
+
+>  <MW>  (19) 
+282.111675688
+
+>  <TPSA>  (19) 
+79.78
+
+>  <LogP>  (19) 
+1.6717199999999999
+
+>  <RBs>  (19) 
+3
+
+>  <G_bound>  (19) 
+-8.486573364586059
+
+>  <G_unbound>  (19) 
+1.364178802039285
+
+>  <deltaG>  (19) 
+-9.850752166625345
+
+>  <comRMSD>  (19) 
+0.24452264070555932
+
+>  <substructure_overlap_check>  (19) 
+True
+
+>  <energy_ratio_check>  (19) 
+True
+
+>  <const_energy/unconst_energy>  (19) 
+2.037820499849268
+
+>  <sucos>  (19) 
+0.7094674567756103
+
+>  <interactions>  (19) 
+HBDonor_ASP-10,Hydrophobic_TYR-142,Hydrophobic_CYS-143,Hydrophobic_ALA-36,Hydrophobic_VAL-33,Hydrophobic_ARG-144,HBAcceptor_ARG-144,Hydrophobic_ILE-11,HBAcceptor_ILE-11,Hydrophobic_ASP-145,HBAcceptor_ASP-145,Hydrophobic_TRP-148
+
+>  <total_num_ints>  (19) 
+12
+
+>  <total_num_ints_nonhyd>  (19) 
+4
+
+>  <num_uniq_frag_ints>  (19) 
+15
+
+>  <num_repl_uniq_ints>  (19) 
+12
+
+>  <num_uniq_ints_lost>  (19) 
+3
+
+>  <num_new_uniq_ints>  (19) 
+0
+
+>  <int_check>  (19) 
+True
+
+>  <rationale>  (19) 
+FragNet: perfect merge incl c1cnc2[nH]ccc2c1,O=c1ccccn1[Xe]
+
+>  <original SMILES>  (19) 
+Cc1c(NC(=O)Cn2ccccc2=O)cnc2[nH]ccc12
+
+>  <original_name>  (19) 
+cx1402a-cx0316a_2_PXX
+
+>  <ref_mols>  (19) 
+cx1402a,cx0316a
+
+>  <ref_pdb>  (19) 
+cx1402a
+
+$$$$
+PV-003039353390
+     RDKit          3D
+
+ 22 24  0  0  0  0  0  0  0  0999 V2000
+   14.9130   11.0640   14.9040 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.7980   11.5310   13.5100 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.7400   12.8370   13.0650 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.6480   12.8190   11.6990 N   0  0  0  0  0  0  0  0  0  0  0  0
+   14.6430   11.5300   11.2540 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.5700   11.1680    9.9610 N   0  0  0  0  0  0  0  0  0  0  0  0
+   14.5500    9.8230    9.7960 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.6050    8.8890   10.8200 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.5160    7.4780   10.4530 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.6840    7.0780    9.6610 O   0  0  0  0  0  0  0  0  0  0  0  0
+   15.3930    6.7060   11.1070 O   0  0  0  0  0  0  0  0  0  0  0  0
+   14.8930    5.3670   11.1930 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.1270    4.8810   12.6030 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.9940    3.7170   12.6280 N   0  0  0  0  0  0  0  0  0  0  0  0
+   15.5270    2.7340   13.4690 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.1380    2.4680   14.6170 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.3060    3.2180   14.9570 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.9020    3.9620   14.0190 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.3530    4.0060   12.6470 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.0650    4.2890   11.6620 O   0  0  0  0  0  0  0  0  0  0  0  0
+   14.7130    9.3200   12.1430 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.7240   10.7000   12.3640 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  2  0
+  3  4  1  0
+  4  5  1  0
+  5  6  2  0
+  6  7  1  0
+  7  8  2  0
+  8  9  1  0
+  9 10  2  0
+  9 11  1  0
+ 11 12  1  0
+ 12 13  1  0
+ 13 14  1  0
+ 14 15  1  0
+ 15 16  2  0
+ 16 17  1  0
+ 17 18  2  0
+ 18 19  1  0
+ 19 20  2  0
+  8 21  1  0
+ 21 22  2  0
+ 22  2  1  0
+ 22  5  1  0
+ 19 14  1  0
+A    1
+ C1 
+A    2
+ C2 
+A    3
+ C3 
+A    4
+ N1 
+A    5
+ C4 
+A    6
+ N2 
+A    7
+ C5 
+A    8
+ C6 
+A    9
+ C7 
+A   10
+ O1 
+A   11
+ O2 
+A   12
+ C8 
+A   13
+ C9 
+A   14
+ N3 
+A   15
+ C10
+A   16
+ C11
+A   17
+ C12
+A   18
+ C13
+A   19
+ C14
+A   20
+ O3 
+A   21
+ C15
+A   22
+ C16
+M  END
+>  <similarity>  (20) 
+NA
+
+>  <smiles>  (20) 
+Cc1c[nH]c2ncc(C(=O)OCCn3ccccc3=O)cc12
+
+>  <cmpd_id>  (20) 
+ENAMINE:PV-003039353390
+
+>  <used_subnode>  (20) 
+NA
+
+>  <used_synthon>  (20) 
+NA
+
+>  <ref_subnode>  (20) 
+c1cnc2[nH]ccc2c1
+
+>  <ref_synthon>  (20) 
+O=c1ccccn1[Xe]
+
+>  <fragmentA>  (20) 
+cx1402a
+
+>  <fragmentB>  (20) 
+cx0316a
+
+>  <HA>  (20) 
+22
+
+>  <HBD>  (20) 
+1
+
+>  <HBA>  (20) 
+5
+
+>  <MW>  (20) 
+297.11134134
+
+>  <TPSA>  (20) 
+76.98
+
+>  <LogP>  (20) 
+1.8900199999999998
+
+>  <RBs>  (20) 
+4
+
+>  <G_bound>  (20) 
+-8.422382540990576
+
+>  <G_unbound>  (20) 
+0.8676868159882452
+
+>  <deltaG>  (20) 
+-9.29006935697882
+
+>  <comRMSD>  (20) 
+0.34969371741682476
+
+>  <substructure_overlap_check>  (20) 
+True
+
+>  <energy_ratio_check>  (20) 
+True
+
+>  <const_energy/unconst_energy>  (20) 
+2.480590245204869
+
+>  <sucos>  (20) 
+0.7386764021697921
+
+>  <interactions>  (20) 
+HBDonor_ASP-10,Hydrophobic_TYR-142,Hydrophobic_ALA-36,Hydrophobic_VAL-33,Hydrophobic_ARG-144,HBAcceptor_ARG-144,Hydrophobic_ILE-11,HBAcceptor_ILE-11,Hydrophobic_ASP-145,HBAcceptor_ASP-145,Hydrophobic_TRP-148
+
+>  <total_num_ints>  (20) 
+11
+
+>  <total_num_ints_nonhyd>  (20) 
+4
+
+>  <num_uniq_frag_ints>  (20) 
+15
+
+>  <num_repl_uniq_ints>  (20) 
+11
+
+>  <num_uniq_ints_lost>  (20) 
+4
+
+>  <num_new_uniq_ints>  (20) 
+0
+
+>  <int_check>  (20) 
+True
+
+>  <rationale>  (20) 
+FragNet: perfect merge incl c1cnc2[nH]ccc2c1,O=c1ccccn1[Xe]
+
+>  <original SMILES>  (20) 
+Cc1c[nH]c2ncc(C(=O)OCCn3ccccc3=O)cc12
+
+>  <original_name>  (20) 
+cx1402a-cx0316a_11_PXX
+
+>  <ref_mols>  (20) 
+cx1402a,cx0316a
+
+>  <ref_pdb>  (20) 
+cx1402a
+
+$$$$
+PV-002776014845
+     RDKit          3D
+
+ 21 23  0  0  0  0  0  0  0  0999 V2000
+   13.5480    5.7580   14.1620 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.9920    6.1270   14.5040 C   0  0  2  0  0  0  0  0  0  0  0  0
+   15.2590    7.5540   14.0870 N   0  0  0  0  0  0  0  0  0  0  0  0
+   14.6080    8.7440   14.5510 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.0930    8.8140   15.6630 O   0  0  0  0  0  0  0  0  0  0  0  0
+   14.6030    9.9010   13.5800 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.5110   11.2950   13.8190 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.5580   11.9620   12.6100 N   0  0  0  0  0  0  0  0  0  0  0  0
+   14.6770   11.0550   11.6010 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.7550   11.3700   10.2900 N   0  0  0  0  0  0  0  0  0  0  0  0
+   14.8680   10.2930    9.5060 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.8920    8.9940    9.9170 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.8020    8.7190   11.2560 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.8170    6.8940   11.6950 Br  0  0  0  0  0  0  0  0  0  0  0  0
+   14.6990    9.7780   12.1650 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.0760    5.1610   13.9040 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.5550    5.1670   12.6560 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.6290    4.1640   12.5900 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.3710    4.0850   11.6250 O   0  0  0  0  0  0  0  0  0  0  0  0
+   17.6360    3.4770   13.7910 N   0  0  0  0  0  0  0  0  0  0  0  0
+   16.7130    4.1310   14.6380 N   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  6
+  2  3  1  0
+  3  4  1  0
+  4  5  2  0
+  4  6  1  0
+  6  7  2  0
+  7  8  1  0
+  8  9  1  0
+  9 10  2  0
+ 10 11  1  0
+ 11 12  2  0
+ 12 13  1  0
+ 13 14  1  0
+ 13 15  2  0
+  2 16  1  0
+ 16 17  2  0
+ 17 18  1  0
+ 18 19  2  0
+ 18 20  1  0
+ 20 21  1  0
+ 15  6  1  0
+ 21 16  1  0
+ 15  9  1  0
+A    1
+ C1 
+A    2
+ C2 
+A    3
+ N1 
+A    4
+ C3 
+A    5
+ O1 
+A    6
+ C4 
+A    7
+ C5 
+A    8
+ N2 
+A    9
+ C6 
+A   10
+ N3 
+A   11
+ C7 
+A   12
+ C8 
+A   13
+ C9 
+A   14
+BR1 
+A   15
+ C10
+A   16
+ C11
+A   17
+ C12
+A   18
+ C13
+A   19
+ O2 
+A   20
+ N4 
+A   21
+ N5 
+M  END
+>  <similarity>  (21) 
+1.0
+
+>  <smiles>  (21) 
+CC(NC(=O)c1c[nH]c2nccc(Br)c12)c1cc(=O)[nH][nH]1
+
+>  <cmpd_id>  (21) 
+ENAMINE:PV-002776014845
+
+>  <used_subnode>  (21) 
+c1cnc2[nH]ccc2c1
+
+>  <used_synthon>  (21) 
+O=c1cc([Xe])[nH][nH]1
+
+>  <ref_subnode>  (21) 
+c1cnc2[nH]ccc2c1
+
+>  <ref_synthon>  (21) 
+O=c1[nH][nH]cc1[Xe]
+
+>  <fragmentA>  (21) 
+cx1402a
+
+>  <fragmentB>  (21) 
+cx9317a
+
+>  <HA>  (21) 
+21
+
+>  <HBD>  (21) 
+4
+
+>  <HBA>  (21) 
+3
+
+>  <MW>  (21) 
+349.017436724
+
+>  <TPSA>  (21) 
+106.42999999999998
+
+>  <LogP>  (21) 
+1.8327999999999998
+
+>  <RBs>  (21) 
+3
+
+>  <G_bound>  (21) 
+-5.909944810886011
+
+>  <G_unbound>  (21) 
+1.7220099356702137
+
+>  <deltaG>  (21) 
+-7.631954746556225
+
+>  <comRMSD>  (21) 
+1.00614465663087
+
+>  <substructure_overlap_check>  (21) 
+True
+
+>  <energy_ratio_check>  (21) 
+True
+
+>  <const_energy/unconst_energy>  (21) 
+4.52090984106409
+
+>  <sucos>  (21) 
+0.5701241767231091
+
+>  <interactions>  (21) 
+Hydrophobic_VAL-33,Hydrophobic_ARG-144,HBAcceptor_ARG-144,PiCation_ARG-144,Hydrophobic_TRP-148,Hydrophobic_ILE-11,HBAcceptor_ILE-11,Hydrophobic_CYS-143,Hydrophobic_ASP-145,HBAcceptor_ASP-145,HBDonor_ASP-145,Hydrophobic_TYR-142
+
+>  <total_num_ints>  (21) 
+12
+
+>  <total_num_ints_nonhyd>  (21) 
+5
+
+>  <num_uniq_frag_ints>  (21) 
+12
+
+>  <num_repl_uniq_ints>  (21) 
+9
+
+>  <num_uniq_ints_lost>  (21) 
+3
+
+>  <num_new_uniq_ints>  (21) 
+3
+
+>  <int_check>  (21) 
+True
+
+>  <rationale>  (21) 
+FragNet: 1 round bioisosteric merging incl c1cnc2[nH]ccc2c1 and O=c1cc([Xe])[nH][nH]1 replacing O=c1[nH][nH]cc1[Xe]
+
+>  <original SMILES>  (21) 
+CC(NC(=O)c1c[nH]c2nccc(Br)c12)c1cc(=O)[nH][nH]1
+
+>  <original_name>  (21) 
+cx1402a-cx9317a_2_B1X
+
+>  <ref_mols>  (21) 
+cx1402a,cx9317a
+
+>  <ref_pdb>  (21) 
+cx1402a
+
+$$$$
+PV-002783357427
+     RDKit          3D
+
+ 21 24  0  0  0  0  0  0  0  0999 V2000
+   14.7550    6.6200   10.3560 O   0  0  0  0  0  0  0  0  0  0  0  0
+   14.5070    7.2350   11.3610 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.5850    8.7220   11.3580 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.6860    9.4840   10.1630 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.7180   10.8640   10.0980 N   0  0  0  0  0  0  0  0  0  0  0  0
+   14.6310   11.4270   11.3290 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.6100   12.7710   11.5890 N   0  0  0  0  0  0  0  0  0  0  0  0
+   14.5220   12.9870   12.9420 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.4820   11.7660   13.5630 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.5450   10.7770   12.5600 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.5300    9.3870   12.5730 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.0650    6.5720   12.5160 N   0  0  0  0  0  0  0  0  0  0  0  0
+   14.6860    6.5780   13.8500 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.6220    5.0290   13.8270 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.9240    4.3930   13.5160 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.5420    4.7200   12.3980 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.7960    3.9760   12.4190 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.6150    4.0790   11.5370 O   0  0  0  0  0  0  0  0  0  0  0  0
+   17.8230    3.2520   13.5990 N   0  0  0  0  0  0  0  0  0  0  0  0
+   16.6200    3.4680   14.2930 N   0  0  0  0  0  0  0  0  0  0  0  0
+   13.6240    5.1740   12.6530 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0
+  2  3  1  0
+  3  4  2  0
+  4  5  1  0
+  5  6  2  0
+  6  7  1  0
+  7  8  1  0
+  8  9  2  0
+  9 10  1  0
+ 10 11  2  0
+  2 12  1  0
+ 12 13  1  0
+ 13 14  1  0
+ 14 15  1  0
+ 15 16  2  0
+ 16 17  1  0
+ 17 18  2  0
+ 17 19  1  0
+ 19 20  1  0
+ 14 21  1  0
+ 11  3  1  0
+ 21 12  1  0
+ 10  6  1  0
+ 20 15  1  0
+A    1
+ O1 
+A    2
+ C1 
+A    3
+ C2 
+A    4
+ C3 
+A    5
+ N1 
+A    6
+ C4 
+A    7
+ N2 
+A    8
+ C5 
+A    9
+ C6 
+A   10
+ C7 
+A   11
+ C8 
+A   12
+ N3 
+A   13
+ C9 
+A   14
+ C10
+A   15
+ C11
+A   16
+ C12
+A   17
+ C13
+A   18
+ O2 
+A   19
+ N4 
+A   20
+ N5 
+A   21
+ C14
+M  END
+>  <similarity>  (22) 
+NA
+
+>  <smiles>  (22) 
+O=C(c1cnc2[nH]ccc2c1)N1CC(c2cc(=O)[nH][nH]2)C1
+
+>  <cmpd_id>  (22) 
+ENAMINE:PV-002783357427
+
+>  <used_subnode>  (22) 
+NA
+
+>  <used_synthon>  (22) 
+NA
+
+>  <ref_subnode>  (22) 
+c1cnc2[nH]ccc2c1
+
+>  <ref_synthon>  (22) 
+O=c1cc([Xe])[nH][nH]1
+
+>  <fragmentA>  (22) 
+cx1402a
+
+>  <fragmentB>  (22) 
+cx9317a
+
+>  <HA>  (22) 
+21
+
+>  <HBD>  (22) 
+3
+
+>  <HBA>  (22) 
+3
+
+>  <MW>  (22) 
+283.10692465600005
+
+>  <TPSA>  (22) 
+97.63999999999999
+
+>  <LogP>  (22) 
+0.8188999999999999
+
+>  <RBs>  (22) 
+2
+
+>  <G_bound>  (22) 
+-7.069873514526969
+
+>  <G_unbound>  (22) 
+0.3906159108337539
+
+>  <deltaG>  (22) 
+-7.460489425360723
+
+>  <comRMSD>  (22) 
+0.45306350061426764
+
+>  <substructure_overlap_check>  (22) 
+True
+
+>  <energy_ratio_check>  (22) 
+True
+
+>  <const_energy/unconst_energy>  (22) 
+1.7065434869875487
+
+>  <sucos>  (22) 
+0.7330648032037592
+
+>  <interactions>  (22) 
+HBDonor_ASP-10,Hydrophobic_TYR-142,Hydrophobic_CYS-143,Hydrophobic_ALA-36,Hydrophobic_VAL-33,Hydrophobic_ARG-144,HBAcceptor_ARG-144,PiCation_ARG-144,Hydrophobic_ILE-11,HBAcceptor_ILE-11,Hydrophobic_ASP-145,HBAcceptor_ASP-145,Hydrophobic_TRP-148
+
+>  <total_num_ints>  (22) 
+13
+
+>  <total_num_ints_nonhyd>  (22) 
+5
+
+>  <num_uniq_frag_ints>  (22) 
+12
+
+>  <num_repl_uniq_ints>  (22) 
+11
+
+>  <num_uniq_ints_lost>  (22) 
+1
+
+>  <num_new_uniq_ints>  (22) 
+2
+
+>  <int_check>  (22) 
+True
+
+>  <rationale>  (22) 
+FragNet: perfect merge incl c1cnc2[nH]ccc2c1,O=c1cc([Xe])[nH][nH]1
+
+>  <original SMILES>  (22) 
+O=C(c1cnc2[nH]ccc2c1)N1CC(c2cc(=O)[nH][nH]2)C1
+
+>  <original_name>  (22) 
+cx1402a-cx9317a_5_PXX
+
+>  <ref_mols>  (22) 
+cx1402a,cx9317a
+
+>  <ref_pdb>  (22) 
+cx1402a
+
+$$$$
+Z1684468893
+     RDKit          3D
+
+ 22 24  0  0  0  0  0  0  0  0999 V2000
+   18.4380    4.3610   11.7550 O   0  0  0  0  0  0  0  0  0  0  0  0
+   17.6550    4.0460   12.6510 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.0220    4.0720   14.0340 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.2280    3.4300   14.9760 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.0390    2.7500   14.5540 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.6380    2.8850   13.2420 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.3750    3.6580   12.3660 N   0  0  0  0  0  0  0  0  0  0  0  0
+   16.0940    3.6650   10.9490 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.6940    3.2670   10.5820 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.6170    4.2140   11.0880 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.9800    5.6430   10.9180 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.2970    6.4190    9.9230 N   0  0  0  0  0  0  0  0  0  0  0  0
+   13.9330    7.6340   10.1100 O   0  0  0  0  0  0  0  0  0  0  0  0
+   14.8460    7.4330   11.1190 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.6180    8.5170   11.4940 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.0790    9.7450   11.4300 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.7740   10.4390   12.5920 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.2280   11.7000   12.4920 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.0090   12.2100   11.2250 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.2950   11.5510   10.0770 N   0  0  0  0  0  0  0  0  0  0  0  0
+   14.8260   10.3290   10.2040 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.9110    6.2540   11.6400 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0
+  2  3  1  0
+  3  4  2  0
+  4  5  1  0
+  5  6  2  0
+  6  7  1  0
+  7  8  1  0
+  8  9  1  0
+  9 10  1  0
+ 10 11  1  0
+ 11 12  2  0
+ 12 13  1  0
+ 13 14  1  0
+ 14 15  1  0
+ 15 16  1  0
+ 16 17  2  0
+ 17 18  1  0
+ 18 19  2  0
+ 19 20  1  0
+ 20 21  2  0
+ 14 22  2  0
+  7  2  1  0
+ 22 11  1  0
+ 21 16  1  0
+A    1
+ O1 
+A    2
+ C1 
+A    3
+ C2 
+A    4
+ C3 
+A    5
+ C4 
+A    6
+ C5 
+A    7
+ N1 
+A    8
+ C6 
+A    9
+ C7 
+A   10
+ C8 
+A   11
+ C9 
+A   12
+ N2 
+A   13
+ O2 
+A   14
+ C10
+A   15
+ C11
+A   16
+ C12
+A   17
+ C13
+A   18
+ C14
+A   19
+ C15
+A   20
+ N3 
+A   21
+ C16
+A   22
+ N4 
+M  END
+>  <similarity>  (23) 
+NA
+
+>  <smiles>  (23) 
+O=c1ccccn1CCCc1noc(Cc2cccnc2)n1
+
+>  <cmpd_id>  (23) 
+ENAMINE:Z1684468893
+
+>  <used_subnode>  (23) 
+NA
+
+>  <used_synthon>  (23) 
+NA
+
+>  <ref_subnode>  (23) 
+Cc1cccnc1
+
+>  <ref_synthon>  (23) 
+O=c1ccccn1[Xe]
+
+>  <fragmentA>  (23) 
+cx1406a
+
+>  <fragmentB>  (23) 
+cx0316a
+
+>  <HA>  (23) 
+22
+
+>  <HBD>  (23) 
+0
+
+>  <HBA>  (23) 
+6
+
+>  <MW>  (23) 
+296.127325752
+
+>  <TPSA>  (23) 
+73.81
+
+>  <LogP>  (23) 
+1.8498999999999999
+
+>  <RBs>  (23) 
+6
+
+>  <G_bound>  (23) 
+-7.296163272946969
+
+>  <G_unbound>  (23) 
+1.0180970335371122
+
+>  <deltaG>  (23) 
+-8.314260306484082
+
+>  <comRMSD>  (23) 
+0.6065415774191365
+
+>  <substructure_overlap_check>  (23) 
+True
+
+>  <energy_ratio_check>  (23) 
+True
+
+>  <const_energy/unconst_energy>  (23) 
+2.2523666799868733
+
+>  <sucos>  (23) 
+0.6700435720603103
+
+>  <interactions>  (23) 
+Hydrophobic_CYS-143,Hydrophobic_ALA-36,Hydrophobic_VAL-33,Hydrophobic_LEU-108,Hydrophobic_ARG-144,HBAcceptor_ARG-144,Hydrophobic_ILE-11,HBAcceptor_ILE-11,Hydrophobic_ASP-145,HBAcceptor_ASP-145,Hydrophobic_TRP-148,Hydrophobic_PRO-107
+
+>  <total_num_ints>  (23) 
+12
+
+>  <total_num_ints_nonhyd>  (23) 
+3
+
+>  <num_uniq_frag_ints>  (23) 
+13
+
+>  <num_repl_uniq_ints>  (23) 
+10
+
+>  <num_uniq_ints_lost>  (23) 
+3
+
+>  <num_new_uniq_ints>  (23) 
+2
+
+>  <int_check>  (23) 
+True
+
+>  <rationale>  (23) 
+FragNet: perfect merge incl Cc1cccnc1,O=c1ccccn1[Xe]
+
+>  <original SMILES>  (23) 
+O=c1ccccn1CCCc1noc(Cc2cccnc2)n1
+
+>  <original_name>  (23) 
+cx1406a-cx0316a_752_PXX
+
+>  <ref_mols>  (23) 
+cx1406a,cx0316a
+
+>  <ref_pdb>  (23) 
+cx1406a
+
+$$$$
+Z1347852135
+     RDKit          3D
+
+ 20 22  0  0  0  0  0  0  0  0999 V2000
+   15.1120    7.8300   13.2130 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.9140    8.9800   12.2920 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.0300   10.2810   12.7620 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.8380   11.3340   11.8960 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.5420   11.0330   10.5800 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.4240    9.7640   10.0750 N   0  0  0  0  0  0  0  0  0  0  0  0
+   14.6110    8.7390   10.9760 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.4990    7.2900   10.6680 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.2000    6.3190   11.2340 N   0  0  0  0  0  0  0  0  0  0  0  0
+   14.7370    5.1670   10.6640 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.2960    3.8100   11.0370 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.9770    3.7810   12.3620 N   0  0  0  0  0  0  0  0  0  0  0  0
+   15.3610    3.0970   13.4020 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.9280    2.9350   14.5990 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.2220    3.4890   14.8470 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.9040    4.0430   13.8450 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.3420    4.0820   12.4660 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.0960    4.3680   11.5400 O   0  0  0  0  0  0  0  0  0  0  0  0
+   13.7550    5.3720    9.7490 N   0  0  0  0  0  0  0  0  0  0  0  0
+   13.5990    6.7890    9.7550 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  2  0
+  3  4  1  0
+  4  5  2  0
+  5  6  1  0
+  6  7  2  0
+  7  8  1  0
+  8  9  2  0
+  9 10  1  0
+ 10 11  1  0
+ 11 12  1  0
+ 12 13  1  0
+ 13 14  2  0
+ 14 15  1  0
+ 15 16  2  0
+ 16 17  1  0
+ 17 18  2  0
+ 10 19  2  0
+ 19 20  1  0
+  7  2  1  0
+ 20  8  1  0
+ 17 12  1  0
+A    1
+ C1 
+A    2
+ C2 
+A    3
+ C3 
+A    4
+ C4 
+A    5
+ C5 
+A    6
+ N1 
+A    7
+ C6 
+A    8
+ C7 
+A    9
+ N2 
+A   10
+ C8 
+A   11
+ C9 
+A   12
+ N3 
+A   13
+ C10
+A   14
+ C11
+A   15
+ C12
+A   16
+ C13
+A   17
+ C14
+A   18
+ O1 
+A   19
+ N4 
+A   20
+ O2 
+M  END
+>  <similarity>  (24) 
+NA
+
+>  <smiles>  (24) 
+Cc1cccnc1-c1nc(Cn2ccccc2=O)no1
+
+>  <cmpd_id>  (24) 
+ENAMINE:Z1347852135
+
+>  <used_subnode>  (24) 
+NA
+
+>  <used_synthon>  (24) 
+NA
+
+>  <ref_subnode>  (24) 
+Cc1cccnc1
+
+>  <ref_synthon>  (24) 
+O=c1ccccn1[Xe]
+
+>  <fragmentA>  (24) 
+cx1406a
+
+>  <fragmentB>  (24) 
+cx0316a
+
+>  <HA>  (24) 
+20
+
+>  <HBD>  (24) 
+0
+
+>  <HBA>  (24) 
+6
+
+>  <MW>  (24) 
+268.096025624
+
+>  <TPSA>  (24) 
+73.81
+
+>  <LogP>  (24) 
+1.65002
+
+>  <RBs>  (24) 
+3
+
+>  <G_bound>  (24) 
+-7.215819987869623
+
+>  <G_unbound>  (24) 
+0.9553069087520207
+
+>  <deltaG>  (24) 
+-8.171126896621644
+
+>  <comRMSD>  (24) 
+0.8696840986040929
+
+>  <substructure_overlap_check>  (24) 
+True
+
+>  <energy_ratio_check>  (24) 
+True
+
+>  <const_energy/unconst_energy>  (24) 
+2.1154636456070057
+
+>  <sucos>  (24) 
+0.6704817024470734
+
+>  <interactions>  (24) 
+Hydrophobic_CYS-143,Hydrophobic_VAL-33,HBAcceptor_LEU-108,Hydrophobic_ARG-144,HBAcceptor_ARG-144,Hydrophobic_ILE-11,Hydrophobic_ASP-145,HBAcceptor_ASP-145,Hydrophobic_TRP-148
+
+>  <total_num_ints>  (24) 
+9
+
+>  <total_num_ints_nonhyd>  (24) 
+3
+
+>  <num_uniq_frag_ints>  (24) 
+13
+
+>  <num_repl_uniq_ints>  (24) 
+9
+
+>  <num_uniq_ints_lost>  (24) 
+4
+
+>  <num_new_uniq_ints>  (24) 
+0
+
+>  <int_check>  (24) 
+True
+
+>  <rationale>  (24) 
+FragNet: perfect merge incl Cc1cccnc1,O=c1ccccn1[Xe]
+
+>  <original SMILES>  (24) 
+Cc1cccnc1-c1nc(Cn2ccccc2=O)no1
+
+>  <original_name>  (24) 
+cx1406a-cx0316a_532_PXX
+
+>  <ref_mols>  (24) 
+cx1406a,cx0316a
+
+>  <ref_pdb>  (24) 
+cx1406a
+
+$$$$
+Z1987600957
+     RDKit          3D
+
+ 21 22  0  0  0  0  0  0  0  0999 V2000
+   13.0040    5.0570   11.6470 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.2820    5.1040   10.9100 C   0  0  2  0  0  0  0  0  0  0  0  0
+   13.8740    5.1660    9.5230 O   0  0  0  0  0  0  0  0  0  0  0  0
+   15.3190    3.9610   11.1180 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.9910    3.8520   12.4360 N   0  0  0  0  0  0  0  0  0  0  0  0
+   15.4060    3.0690   13.4150 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.9770    2.8660   14.6050 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.2370    3.4830   14.8890 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.9110    4.0930   13.9140 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.3590    4.1230   12.5360 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.1020    4.3750   11.5820 O   0  0  0  0  0  0  0  0  0  0  0  0
+   14.9560    6.4720   11.2810 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.7530    6.5820   12.2080 O   0  0  0  0  0  0  0  0  0  0  0  0
+   14.5280    7.5730   10.3990 N   0  0  0  0  0  0  0  0  0  0  0  0
+   14.6240    8.9200   10.7710 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.4810    9.9310    9.8320 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.5390   11.2360   10.0800 N   0  0  0  0  0  0  0  0  0  0  0  0
+   14.7590   11.5830   11.3530 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.9210   10.7100   12.3600 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.1420   11.1420   13.6070 F   0  0  0  0  0  0  0  0  0  0  0  0
+   14.8550    9.2760   12.0840 C   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  1
+  2  3  1  0
+  2  4  1  0
+  4  5  1  0
+  5  6  1  0
+  6  7  2  0
+  7  8  1  0
+  8  9  2  0
+  9 10  1  0
+ 10 11  2  0
+  2 12  1  0
+ 12 13  2  0
+ 12 14  1  0
+ 14 15  1  0
+ 15 16  2  0
+ 16 17  1  0
+ 17 18  2  0
+ 18 19  1  0
+ 19 20  1  0
+ 19 21  2  0
+ 10  5  1  0
+ 21 15  1  0
+A    1
+ C1 
+A    2
+ C2 
+A    3
+ O1 
+A    4
+ C3 
+A    5
+ N1 
+A    6
+ C4 
+A    7
+ C5 
+A    8
+ C6 
+A    9
+ C7 
+A   10
+ C8 
+A   11
+ O2 
+A   12
+ C9 
+A   13
+ O3 
+A   14
+ N2 
+A   15
+ C10
+A   16
+ C11
+A   17
+ N3 
+A   18
+ C12
+A   19
+ C13
+A   20
+ F1 
+A   21
+ C14
+M  END
+>  <similarity>  (25) 
+NA
+
+>  <smiles>  (25) 
+CC(O)(Cn1ccccc1=O)C(=O)Nc1cncc(F)c1
+
+>  <cmpd_id>  (25) 
+ENAMINE:Z1987600957
+
+>  <used_subnode>  (25) 
+NA
+
+>  <used_synthon>  (25) 
+NA
+
+>  <ref_subnode>  (25) 
+c1ccncc1
+
+>  <ref_synthon>  (25) 
+O=c1ccccn1[Xe]
+
+>  <fragmentA>  (25) 
+cx1406a
+
+>  <fragmentB>  (25) 
+cx0316a
+
+>  <HA>  (25) 
+21
+
+>  <HBD>  (25) 
+2
+
+>  <HBA>  (25) 
+5
+
+>  <MW>  (25) 
+291.101919528
+
+>  <TPSA>  (25) 
+84.22
+
+>  <LogP>  (25) 
+0.7720999999999996
+
+>  <RBs>  (25) 
+4
+
+>  <G_bound>  (25) 
+-8.78892083298894
+
+>  <G_unbound>  (25) 
+1.3309190149003656
+
+>  <deltaG>  (25) 
+-10.119839847889304
+
+>  <comRMSD>  (25) 
+1.3294923415503206
+
+>  <substructure_overlap_check>  (25) 
+True
+
+>  <energy_ratio_check>  (25) 
+True
+
+>  <const_energy/unconst_energy>  (25) 
+2.959589583516149
+
+>  <sucos>  (25) 
+0.6931381868699735
+
+>  <interactions>  (25) 
+Hydrophobic_TYR-142,Hydrophobic_CYS-143,Hydrophobic_VAL-33,HBAcceptor_LEU-108,HBDonor_LEU-108,Hydrophobic_ARG-144,HBAcceptor_ARG-144,Hydrophobic_ILE-11,HBAcceptor_ILE-11,Hydrophobic_ASP-145,HBAcceptor_ASP-145,Hydrophobic_TRP-148
+
+>  <total_num_ints>  (25) 
+12
+
+>  <total_num_ints_nonhyd>  (25) 
+5
+
+>  <num_uniq_frag_ints>  (25) 
+13
+
+>  <num_repl_uniq_ints>  (25) 
+11
+
+>  <num_uniq_ints_lost>  (25) 
+2
+
+>  <num_new_uniq_ints>  (25) 
+1
+
+>  <int_check>  (25) 
+True
+
+>  <rationale>  (25) 
+FragNet: perfect merge incl c1ccncc1,O=c1ccccn1[Xe]
+
+>  <original SMILES>  (25) 
+CC(O)(Cn1ccccc1=O)C(=O)Nc1cncc(F)c1
+
+>  <original_name>  (25) 
+cx1406a-cx0316a_427_PXX
+
+>  <ref_mols>  (25) 
+cx1406a,cx0316a
+
+>  <ref_pdb>  (25) 
+cx1406a
+
+$$$$
+PV-002946527783
+     RDKit          3D
+
+ 21 23  0  0  0  0  0  0  0  0999 V2000
+   14.6260   13.2020   11.7580 N   0  0  0  0  0  0  0  0  0  0  0  0
+   14.5700   11.8590   11.4360 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.5330   10.8490   12.5190 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.4670    9.4990   12.2080 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.4300    9.1620   10.7390 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.3040    7.8100   10.1560 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.6840    6.6910   10.9420 N   0  0  0  0  0  0  0  0  0  0  0  0
+   14.7150    5.4370   10.4700 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.1700    4.6830   11.4760 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.4520    3.2500   11.5010 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.3390    3.0430   12.6110 N   0  0  0  0  0  0  0  0  0  0  0  0
+   15.6840    2.6290   13.8220 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.2120    2.9510   15.1880 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.4940    3.7610   15.1530 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.0540    4.1530   13.9960 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.4960    3.8340   12.6430 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.0750    4.2850   11.6380 O   0  0  0  0  0  0  0  0  0  0  0  0
+   15.3760    5.4980   12.5720 N   0  0  0  0  0  0  0  0  0  0  0  0
+   15.0680    6.7450   12.2280 N   0  0  0  0  0  0  0  0  0  0  0  0
+   14.4860   10.2020    9.8340 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.5550   11.5010   10.1420 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  2  0
+  3  4  1  0
+  4  5  2  0
+  5  6  1  0
+  6  7  1  0
+  7  8  1  0
+  8  9  2  0
+  9 10  1  0
+ 10 11  1  0
+ 11 12  1  0
+ 12 13  2  0
+ 13 14  1  0
+ 14 15  2  0
+ 15 16  1  0
+ 16 17  2  0
+  9 18  1  0
+ 18 19  2  0
+  5 20  1  0
+ 20 21  2  0
+ 21  2  1  0
+ 19  7  1  0
+ 16 11  1  0
+A    1
+ N1 
+A    2
+ C1 
+A    3
+ C2 
+A    4
+ C3 
+A    5
+ C4 
+A    6
+ C5 
+A    7
+ N2 
+A    8
+ C6 
+A    9
+ C7 
+A   10
+ C8 
+A   11
+ N3 
+A   12
+ C9 
+A   13
+ C10
+A   14
+ C11
+A   15
+ C12
+A   16
+ C13
+A   17
+ O1 
+A   18
+ N4 
+A   19
+ N5 
+A   20
+ C14
+A   21
+ N6 
+M  END
+>  <similarity>  (26) 
+NA
+
+>  <smiles>  (26) 
+Nc1ccc(Cn2cc(Cn3ccccc3=O)nn2)cn1
+
+>  <cmpd_id>  (26) 
+ENAMINE:PV-002946527783
+
+>  <used_subnode>  (26) 
+NA
+
+>  <used_synthon>  (26) 
+NA
+
+>  <ref_subnode>  (26) 
+Cc1ccc(N)nc1
+
+>  <ref_synthon>  (26) 
+O=c1ccccn1[Xe]
+
+>  <fragmentA>  (26) 
+cx1406a
+
+>  <fragmentB>  (26) 
+cx0316a
+
+>  <HA>  (26) 
+21
+
+>  <HBD>  (26) 
+1
+
+>  <HBA>  (26) 
+7
+
+>  <MW>  (26) 
+282.122909068
+
+>  <TPSA>  (26) 
+91.62
+
+>  <LogP>  (26) 
+0.5135999999999996
+
+>  <RBs>  (26) 
+4
+
+>  <G_bound>  (26) 
+-6.101468829393443
+
+>  <G_unbound>  (26) 
+0.8070705872734025
+
+>  <deltaG>  (26) 
+-6.908539416666846
+
+>  <comRMSD>  (26) 
+0.612510978201301
+
+>  <substructure_overlap_check>  (26) 
+True
+
+>  <energy_ratio_check>  (26) 
+True
+
+>  <const_energy/unconst_energy>  (26) 
+2.410352858920862
+
+>  <sucos>  (26) 
+0.7031589002469324
+
+>  <interactions>  (26) 
+HBDonor_ASP-10,Hydrophobic_TYR-142,Hydrophobic_CYS-143,Hydrophobic_VAL-33,Hydrophobic_ARG-144,HBAcceptor_ARG-144,Hydrophobic_ILE-11,HBAcceptor_ILE-11,Hydrophobic_ASP-145,HBAcceptor_ASP-145,Hydrophobic_TRP-148
+
+>  <total_num_ints>  (26) 
+11
+
+>  <total_num_ints_nonhyd>  (26) 
+4
+
+>  <num_uniq_frag_ints>  (26) 
+13
+
+>  <num_repl_uniq_ints>  (26) 
+10
+
+>  <num_uniq_ints_lost>  (26) 
+3
+
+>  <num_new_uniq_ints>  (26) 
+1
+
+>  <int_check>  (26) 
+True
+
+>  <rationale>  (26) 
+FragNet: perfect merge incl Cc1ccc(N)nc1,O=c1ccccn1[Xe]
+
+>  <original SMILES>  (26) 
+Nc1ccc(Cn2cc(Cn3ccccc3=O)nn2)cn1
+
+>  <original_name>  (26) 
+cx1406a-cx0316a_501_PXX
+
+>  <ref_mols>  (26) 
+cx1406a,cx0316a
+
+>  <ref_pdb>  (26) 
+cx1406a
+
+$$$$
+Z1698211057
+     RDKit          3D
+
+ 21 22  0  0  0  0  0  0  0  0999 V2000
+   14.1560    4.4740    9.4090 O   0  0  0  0  0  0  0  0  0  0  0  0
+   14.6130    4.3830   10.5520 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.6300    3.3650   10.9580 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.1190    3.6040   12.3320 N   0  0  0  0  0  0  0  0  0  0  0  0
+   15.4680    2.9580   13.3730 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.9610    2.8850   14.6130 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.2120    3.5010   14.9120 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.9500    4.0680   13.8880 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.4460    4.0210   12.4920 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.1840    4.3400   11.5620 O   0  0  0  0  0  0  0  0  0  0  0  0
+   14.2310    5.2250   11.5980 N   0  0  0  0  0  0  0  0  0  0  0  0
+   13.7010    6.7710   11.4220 S   0  0  0  0  0  6  0  0  0  0  0  0
+   12.8770    6.9560   12.6010 O   0  0  0  0  0  0  0  0  0  0  0  0
+   13.1640    6.9120   10.0910 O   0  0  0  0  0  0  0  0  0  0  0  0
+   15.2020    7.7510   11.5960 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.8970    9.2280   11.3600 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.7510   10.0600   12.6160 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.4670   11.4100   12.4570 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.3370   11.9080   11.2100 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.4620   11.1990   10.0480 N   0  0  0  0  0  0  0  0  0  0  0  0
+   14.7410    9.8680   10.1370 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0
+  2  3  1  0
+  3  4  1  0
+  4  5  1  0
+  5  6  2  0
+  6  7  1  0
+  7  8  2  0
+  8  9  1  0
+  9 10  2  0
+  2 11  1  0
+ 11 12  1  0
+ 12 13  2  0
+ 12 14  2  0
+ 12 15  1  0
+ 15 16  1  0
+ 16 17  2  0
+ 17 18  1  0
+ 18 19  2  0
+ 19 20  1  0
+ 20 21  2  0
+  9  4  1  0
+ 21 16  1  0
+A    1
+ O1 
+A    2
+ C1 
+A    3
+ C2 
+A    4
+ N1 
+A    5
+ C3 
+A    6
+ C4 
+A    7
+ C5 
+A    8
+ C6 
+A    9
+ C7 
+A   10
+ O2 
+A   11
+ N2 
+A   12
+ S1 
+A   13
+ O3 
+A   14
+ O4 
+A   15
+ C8 
+A   16
+ C9 
+A   17
+ C10
+A   18
+ C11
+A   19
+ C12
+A   20
+ N3 
+A   21
+ C13
+M  END
+>  <similarity>  (27) 
+NA
+
+>  <smiles>  (27) 
+O=C(Cn1ccccc1=O)NS(=O)(=O)Cc1cccnc1
+
+>  <cmpd_id>  (27) 
+ENAMINE:Z1698211057
+
+>  <used_subnode>  (27) 
+NA
+
+>  <used_synthon>  (27) 
+NA
+
+>  <ref_subnode>  (27) 
+c1ccncc1
+
+>  <ref_synthon>  (27) 
+O=c1ccccn1[Xe]
+
+>  <fragmentA>  (27) 
+cx1406a
+
+>  <fragmentB>  (27) 
+cx0316a
+
+>  <HA>  (27) 
+21
+
+>  <HBD>  (27) 
+1
+
+>  <HBA>  (27) 
+6
+
+>  <MW>  (27) 
+307.062676896
+
+>  <TPSA>  (27) 
+98.13000000000001
+
+>  <LogP>  (27) 
+-0.11050000000000049
+
+>  <RBs>  (27) 
+5
+
+>  <G_bound>  (27) 
+-8.745683262119815
+
+>  <G_unbound>  (27) 
+2.0334888510904436
+
+>  <deltaG>  (27) 
+-10.779172113210258
+
+>  <comRMSD>  (27) 
+0.23667079006428682
+
+>  <substructure_overlap_check>  (27) 
+True
+
+>  <energy_ratio_check>  (27) 
+True
+
+>  <const_energy/unconst_energy>  (27) 
+3.0675839896507524
+
+>  <sucos>  (27) 
+0.7083753324791733
+
+>  <interactions>  (27) 
+Hydrophobic_CYS-143,Hydrophobic_VAL-33,HBAcceptor_LEU-108,Hydrophobic_ARG-144,HBAcceptor_ARG-144,Hydrophobic_ILE-11,HBAcceptor_ILE-11,Hydrophobic_ASP-145,HBAcceptor_ASP-145,Hydrophobic_TRP-148
+
+>  <total_num_ints>  (27) 
+10
+
+>  <total_num_ints_nonhyd>  (27) 
+4
+
+>  <num_uniq_frag_ints>  (27) 
+13
+
+>  <num_repl_uniq_ints>  (27) 
+10
+
+>  <num_uniq_ints_lost>  (27) 
+3
+
+>  <num_new_uniq_ints>  (27) 
+0
+
+>  <int_check>  (27) 
+True
+
+>  <rationale>  (27) 
+FragNet: perfect merge incl c1ccncc1,O=c1ccccn1[Xe]
+
+>  <original SMILES>  (27) 
+O=C(Cn1ccccc1=O)NS(=O)(=O)Cc1cccnc1
+
+>  <original_name>  (27) 
+cx1406a-cx0316a_105_PXX
+
+>  <ref_mols>  (27) 
+cx1406a,cx0316a
+
+>  <ref_pdb>  (27) 
+cx1406a
+
+$$$$
+PV-002942465225
+     RDKit          3D
+
+ 19 20  0  0  0  0  0  0  0  0999 V2000
+   13.9860   13.1910   11.6640 N   0  0  0  0  0  0  0  0  0  0  0  0
+   14.2830   11.8640   11.4560 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.5050   11.0540   12.5590 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.7920    9.7130   12.3490 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.8430    9.2340   11.0410 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.1250    7.8210   10.7230 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.1550    6.9140   11.2850 N   0  0  0  0  0  0  0  0  0  0  0  0
+   14.4350    5.5700   11.3830 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.0740    4.7420   10.5460 O   0  0  0  0  0  0  0  0  0  0  0  0
+   15.2360    5.1790   12.6370 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.0470    3.9560   12.5500 N   0  0  0  0  0  0  0  0  0  0  0  0
+   15.5530    2.9240   13.3190 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.1450    2.5860   14.4680 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.3140    3.3090   14.8790 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.9490    4.0790   13.9880 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.4180    4.1590   12.6040 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.1540    4.3870   11.6400 O   0  0  0  0  0  0  0  0  0  0  0  0
+   14.6140   10.1230   10.0060 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.3360   11.4260   10.1830 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  2  0
+  3  4  1  0
+  4  5  2  0
+  5  6  1  0
+  6  7  1  0
+  7  8  1  0
+  8  9  2  0
+  8 10  1  0
+ 10 11  1  0
+ 11 12  1  0
+ 12 13  2  0
+ 13 14  1  0
+ 14 15  2  0
+ 15 16  1  0
+ 16 17  2  0
+  5 18  1  0
+ 18 19  2  0
+ 19  2  1  0
+ 16 11  1  0
+A    1
+ N1 
+A    2
+ C1 
+A    3
+ C2 
+A    4
+ C3 
+A    5
+ C4 
+A    6
+ C5 
+A    7
+ N2 
+A    8
+ C6 
+A    9
+ O1 
+A   10
+ C7 
+A   11
+ N3 
+A   12
+ C8 
+A   13
+ C9 
+A   14
+ C10
+A   15
+ C11
+A   16
+ C12
+A   17
+ O2 
+A   18
+ C13
+A   19
+ N4 
+M  END
+>  <similarity>  (28) 
+NA
+
+>  <smiles>  (28) 
+Nc1ccc(CNC(=O)Cn2ccccc2=O)cn1
+
+>  <cmpd_id>  (28) 
+ENAMINE:PV-002942465225
+
+>  <used_subnode>  (28) 
+NA
+
+>  <used_synthon>  (28) 
+NA
+
+>  <ref_subnode>  (28) 
+Nc1ccccn1
+
+>  <ref_synthon>  (28) 
+O=c1ccccn1[Xe]
+
+>  <fragmentA>  (28) 
+cx1406a
+
+>  <fragmentB>  (28) 
+cx0316a
+
+>  <HA>  (28) 
+19
+
+>  <HBD>  (28) 
+2
+
+>  <HBA>  (28) 
+5
+
+>  <MW>  (28) 
+258.111675688
+
+>  <TPSA>  (28) 
+90.01
+
+>  <LogP>  (28) 
+0.14189999999999925
+
+>  <RBs>  (28) 
+4
+
+>  <G_bound>  (28) 
+-7.616399329617188
+
+>  <G_unbound>  (28) 
+1.4841319968522997
+
+>  <deltaG>  (28) 
+-9.100531326469488
+
+>  <comRMSD>  (28) 
+0.3233595590638481
+
+>  <substructure_overlap_check>  (28) 
+True
+
+>  <energy_ratio_check>  (28) 
+True
+
+>  <const_energy/unconst_energy>  (28) 
+4.396675739086026
+
+>  <sucos>  (28) 
+0.7266691437822619
+
+>  <interactions>  (28) 
+HBDonor_ASP-10,Hydrophobic_TYR-142,Hydrophobic_CYS-143,Hydrophobic_VAL-33,Hydrophobic_ARG-144,HBAcceptor_ARG-144,Hydrophobic_ILE-11,HBAcceptor_ILE-11,Hydrophobic_ASP-145,HBAcceptor_ASP-145,Hydrophobic_TRP-148
+
+>  <total_num_ints>  (28) 
+11
+
+>  <total_num_ints_nonhyd>  (28) 
+4
+
+>  <num_uniq_frag_ints>  (28) 
+13
+
+>  <num_repl_uniq_ints>  (28) 
+10
+
+>  <num_uniq_ints_lost>  (28) 
+3
+
+>  <num_new_uniq_ints>  (28) 
+1
+
+>  <int_check>  (28) 
+True
+
+>  <rationale>  (28) 
+FragNet: perfect merge incl Nc1ccccn1,O=c1ccccn1[Xe]
+
+>  <original SMILES>  (28) 
+Nc1ccc(CNC(=O)Cn2ccccc2=O)cn1
+
+>  <original_name>  (28) 
+cx1406a-cx0316a_803_PXX
+
+>  <ref_mols>  (28) 
+cx1406a,cx0316a
+
+>  <ref_pdb>  (28) 
+cx1406a
+
+$$$$
+Z1426447707
+     RDKit          3D
+
+ 19 20  0  0  0  0  0  0  0  0999 V2000
+   14.9380    8.3520   13.4070 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.8160    9.2880   12.2440 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.9300   10.6670   12.4550 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.8140   11.5650   11.3820 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.5980   11.1990   10.1000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   14.4840    9.8760    9.8800 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.5750    8.8200   10.9290 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.3720    7.3840   10.4470 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.9950    6.3180   11.2090 O   0  0  0  0  0  0  0  0  0  0  0  0
+   14.5770    5.0840   10.7140 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.5540    4.9660   10.0140 O   0  0  0  0  0  0  0  0  0  0  0  0
+   15.4370    4.0000   11.0500 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.9960    3.9700   12.4110 N   0  0  0  0  0  0  0  0  0  0  0  0
+   15.3810    3.1820   13.3100 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.9850    2.8830   14.6630 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.1950    3.4710   14.9270 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.9070    4.1500   13.8200 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.3750    4.1870   12.5350 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.1270    4.4010   11.5840 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  2  0
+  3  4  1  0
+  4  5  2  0
+  5  6  1  0
+  6  7  2  0
+  7  8  1  0
+  8  9  1  0
+  9 10  1  0
+ 10 11  2  0
+ 10 12  1  0
+ 12 13  1  0
+ 13 14  1  0
+ 14 15  2  0
+ 15 16  1  0
+ 16 17  2  0
+ 17 18  1  0
+ 18 19  2  0
+  7  2  1  0
+ 18 13  1  0
+A    1
+ C1 
+A    2
+ C2 
+A    3
+ C3 
+A    4
+ C4 
+A    5
+ N1 
+A    6
+ C5 
+A    7
+ C6 
+A    8
+ C7 
+A    9
+ O1 
+A   10
+ C8 
+A   11
+ O2 
+A   12
+ C9 
+A   13
+ N2 
+A   14
+ C10
+A   15
+ C11
+A   16
+ C12
+A   17
+ C13
+A   18
+ C14
+A   19
+ O3 
+M  END
+>  <similarity>  (29) 
+NA
+
+>  <smiles>  (29) 
+Cc1ccncc1COC(=O)Cn1ccccc1=O
+
+>  <cmpd_id>  (29) 
+ENAMINE:Z1426447707
+
+>  <used_subnode>  (29) 
+NA
+
+>  <used_synthon>  (29) 
+NA
+
+>  <ref_subnode>  (29) 
+c1ccncc1
+
+>  <ref_synthon>  (29) 
+O=c1ccccn1[Xe]
+
+>  <fragmentA>  (29) 
+cx1406a
+
+>  <fragmentB>  (29) 
+cx0316a
+
+>  <HA>  (29) 
+19
+
+>  <HBD>  (29) 
+0
+
+>  <HBA>  (29) 
+5
+
+>  <MW>  (29) 
+258.100442308
+
+>  <TPSA>  (29) 
+61.19
+
+>  <LogP>  (29) 
+1.2951199999999998
+
+>  <RBs>  (29) 
+4
+
+>  <G_bound>  (29) 
+-8.395318615915258
+
+>  <G_unbound>  (29) 
+1.3236135266164804
+
+>  <deltaG>  (29) 
+-9.718932142531738
+
+>  <comRMSD>  (29) 
+0.36613285303578175
+
+>  <substructure_overlap_check>  (29) 
+True
+
+>  <energy_ratio_check>  (29) 
+True
+
+>  <const_energy/unconst_energy>  (29) 
+3.311815150654473
+
+>  <sucos>  (29) 
+0.7310903673391914
+
+>  <interactions>  (29) 
+Hydrophobic_TYR-142,Hydrophobic_CYS-143,Hydrophobic_VAL-33,HBAcceptor_LEU-108,Hydrophobic_ARG-144,HBAcceptor_ARG-144,Hydrophobic_ILE-11,HBAcceptor_ILE-11,Hydrophobic_ASP-145,HBAcceptor_ASP-145,Hydrophobic_TRP-148
+
+>  <total_num_ints>  (29) 
+11
+
+>  <total_num_ints_nonhyd>  (29) 
+4
+
+>  <num_uniq_frag_ints>  (29) 
+13
+
+>  <num_repl_uniq_ints>  (29) 
+11
+
+>  <num_uniq_ints_lost>  (29) 
+2
+
+>  <num_new_uniq_ints>  (29) 
+0
+
+>  <int_check>  (29) 
+True
+
+>  <rationale>  (29) 
+FragNet: perfect merge incl c1ccncc1,O=c1ccccn1[Xe]
+
+>  <original SMILES>  (29) 
+Cc1ccncc1COC(=O)Cn1ccccc1=O
+
+>  <original_name>  (29) 
+cx1406a-cx0316a_99_PXX
+
+>  <ref_mols>  (29) 
+cx1406a,cx0316a
+
+>  <ref_pdb>  (29) 
+cx1406a
+
+$$$$
+Z2444169952
+     RDKit          3D
+
+ 22 23  0  0  0  0  0  0  0  0999 V2000
+   14.3720   12.6120   13.5820 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.4960   11.5930   12.5050 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.3100   11.9440   11.1750 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.3960   11.0800   10.1400 N   0  0  0  0  0  0  0  0  0  0  0  0
+   14.6800    9.7790   10.4610 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.7420    8.7970    9.3510 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.9500    7.5430    9.7580 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.7270    6.5150   10.4000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   14.3230    5.2460   10.1210 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.2270    4.9740    9.6710 O   0  0  0  0  0  0  0  0  0  0  0  0
+   15.4190    4.2620   10.4430 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.0220    3.3980   11.5980 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.0410    3.2720   12.6420 N   0  0  0  0  0  0  0  0  0  0  0  0
+   15.5650    2.7480   13.8240 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.2020    2.8780   14.9750 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.4340    3.5970   15.0190 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.9650    4.0980   13.9000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.3020    3.9150   12.5830 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.8950    4.3220   11.5700 O   0  0  0  0  0  0  0  0  0  0  0  0
+   14.8920    9.3340   11.7610 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.2080    7.9040   12.0760 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.7960   10.2630   12.7920 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  2  0
+  3  4  1  0
+  4  5  2  0
+  5  6  1  0
+  6  7  1  0
+  7  8  1  0
+  8  9  1  0
+  9 10  2  0
+  9 11  1  0
+ 11 12  1  0
+ 12 13  1  0
+ 13 14  1  0
+ 14 15  2  0
+ 15 16  1  0
+ 16 17  2  0
+ 17 18  1  0
+ 18 19  2  0
+  5 20  1  0
+ 20 21  1  0
+ 20 22  2  0
+ 22  2  1  0
+ 18 13  1  0
+A    1
+ C1 
+A    2
+ C2 
+A    3
+ C3 
+A    4
+ N1 
+A    5
+ C4 
+A    6
+ C5 
+A    7
+ C6 
+A    8
+ O1 
+A    9
+ C7 
+A   10
+ O2 
+A   11
+ C8 
+A   12
+ C9 
+A   13
+ N2 
+A   14
+ C10
+A   15
+ C11
+A   16
+ C12
+A   17
+ C13
+A   18
+ C14
+A   19
+ O3 
+A   20
+ C15
+A   21
+ C16
+A   22
+ C17
+M  END
+>  <similarity>  (30) 
+NA
+
+>  <smiles>  (30) 
+Cc1cnc(CCOC(=O)CCn2ccccc2=O)c(C)c1
+
+>  <cmpd_id>  (30) 
+ENAMINE:Z2444169952
+
+>  <used_subnode>  (30) 
+NA
+
+>  <used_synthon>  (30) 
+NA
+
+>  <ref_subnode>  (30) 
+Cc1cccnc1
+
+>  <ref_synthon>  (30) 
+O=c1ccccn1[Xe]
+
+>  <fragmentA>  (30) 
+cx1406a
+
+>  <fragmentB>  (30) 
+cx0316a
+
+>  <HA>  (30) 
+22
+
+>  <HBD>  (30) 
+0
+
+>  <HBA>  (30) 
+5
+
+>  <MW>  (30) 
+300.1473925
+
+>  <TPSA>  (30) 
+61.19
+
+>  <LogP>  (30) 
+2.03614
+
+>  <RBs>  (30) 
+6
+
+>  <G_bound>  (30) 
+-9.518811249445234
+
+>  <G_unbound>  (30) 
+0.7131353554341981
+
+>  <deltaG>  (30) 
+-10.231946604879433
+
+>  <comRMSD>  (30) 
+0.45312208512136853
+
+>  <substructure_overlap_check>  (30) 
+True
+
+>  <energy_ratio_check>  (30) 
+True
+
+>  <const_energy/unconst_energy>  (30) 
+6.537345250017534
+
+>  <sucos>  (30) 
+0.754416756075492
+
+>  <interactions>  (30) 
+Hydrophobic_TYR-142,Hydrophobic_CYS-143,Hydrophobic_ALA-36,Hydrophobic_VAL-33,HBAcceptor_LEU-108,Hydrophobic_ARG-144,HBAcceptor_ARG-144,Hydrophobic_ILE-11,HBAcceptor_ILE-11,Hydrophobic_ASP-145,HBAcceptor_ASP-145,Hydrophobic_TRP-148
+
+>  <total_num_ints>  (30) 
+12
+
+>  <total_num_ints_nonhyd>  (30) 
+4
+
+>  <num_uniq_frag_ints>  (30) 
+13
+
+>  <num_repl_uniq_ints>  (30) 
+11
+
+>  <num_uniq_ints_lost>  (30) 
+2
+
+>  <num_new_uniq_ints>  (30) 
+1
+
+>  <int_check>  (30) 
+True
+
+>  <rationale>  (30) 
+FragNet: perfect merge incl Cc1cccnc1,O=c1ccccn1[Xe]
+
+>  <original SMILES>  (30) 
+Cc1cnc(CCOC(=O)CCn2ccccc2=O)c(C)c1
+
+>  <original_name>  (30) 
+cx1406a-cx0316a_768_PXX
+
+>  <ref_mols>  (30) 
+cx1406a,cx0316a
+
+>  <ref_pdb>  (30) 
+cx1406a
+
+$$$$
